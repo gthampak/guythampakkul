@@ -57,9 +57,11 @@ Majors: Computer Science and Mathematics (Statistics Track); Major GPA: 4.00, Cu
   <div class="column"></div>
     <ul>
         <li>Expert</li>
-            <li>Java</li>
-            <li>Python</li>
-            <li>R</li>
+            <ul>
+                <li>Java</li>
+                <li>Python</li>
+                <li>R</li>
+            </ul>
     </ul>
   <div class="column"></div>
     hello
