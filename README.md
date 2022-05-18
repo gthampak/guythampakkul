@@ -41,6 +41,7 @@ Majors: Computer Science and Mathematics (Statistics Track); Major GPA: 4.00, Cu
 - Statistical Theory
 - Methods in Biostatistics (Machine Learning)
 - Computational Statistics (Machine Learning)
+- Bayesian Statistics
 
 ## Skills and Strengths
 
