@@ -94,6 +94,21 @@ Majors: Computer Science and Mathematics (Statistics Track); Major GPA: 4.00, Cu
 
 ## Research Experiences and Academic Projects
 
+- Yale Summer Undergraduate Math Research: Directed Graph Based Inference in Machine Learning *(Summer 2022)*
+    - Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
+
+- Software Developer - Evaluation and Optimization of Traffic Control using Original Software *(Summer 2021 - Present)*
+    - Programmed traffic simulator and optimizer in Java using graph theory (https://github.com/gthampak/BangkokTrafficRaise2021)
+    - Used Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion)
+    - Pomona College RAISE Project; Summer 2021 Poster: https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing
+
+- [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)*
+    - Trained four types of Neural Networks compared their effectiveness in forecasting double pendulum motion.
+    - LNN is clearly the best model as it preserves the total energy of the system, resulting in realistic path predictions. ESN and LSTM
+predictions appear random with extreme discontinuity with respect to laws of physics between timesteps. The baseline model did not
+capture any information on system dynamics and predicted one position for all time steps to minimize error.
+
+
 ## Miscellaneous Projects
 
 ## Extracurriculars and Additionals
