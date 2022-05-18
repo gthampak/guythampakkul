@@ -2,13 +2,13 @@ Hi! My name is Guy. I am a senior at Pomona College, majoring in computer scienc
 
 ## Table of Contents
 
-1. [Education](education)
-2. [Skills and Strengths](skills-and-strengths)
-3. [Work Experiences](work-experiences)
-4. [Teaching Experiences](teaching-experiences)
-5. [Research Experiences and Academic Projects](research-experiences-and-academic-projects)
-6. [Miscellaneous Projects](miscellaneous-projects)
-7. [Extracurriculars and Additionals](extracurriculars-and-additionals)
+1. [Education](#education)
+2. [Skills and Strengths](#skills-and-strengths)
+3. [Work Experiences](#work-experiences)
+4. [Teaching Experiences](#teaching-experiences)
+5. [Research Experiences and Academic Projects](#research-experiences-and-academic-projects)
+6. [Miscellaneous Projects](#miscellaneous-projects)
+7. [Extracurriculars and Additionals](#extracurriculars-and-additionals)
 
 ## Education
 
