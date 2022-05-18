@@ -54,41 +54,42 @@ Majors: Computer Science and Mathematics (Statistics Track); Major GPA: 4.00, Cu
 
 #### Programming Languages:
 
-<div class="row">
-  <div class="column"></div>
-    <ul>
-        <li>Expert</li>
-            <ul>
-                <li>Java</li>
-                <li>Python</li>
-                <li>R</li>
-            </ul>
-    </ul>
-  <div class="column"></div>
-    hello
-  <div class="column"></div>
-    bruh
-</div>
-
 - Expert: Java, Python, R
-- 
+
 - Proficient: C++, C, Haskell, Gallina (Coq)
 
 - Prior Experience: C#, SQL
 
 #### Other Skills:
 
-Git, Linux, LaTeX, Microsoft Office, Presentation
+- Git, Linux, LaTeX, Microsoft Office, Presentation
 
 #### Personal Strengths
 
-Hardworking, Fun, Life-long Learner; Collaboration and Team Building; Logic, Creativity, and Critical Thinking
+- Hardworking, Fun, Life-long Learner
+- Collaboration and Team Building
+- Logic, Creativity, and Critical Thinking
 
 ## Work Experiences
 
-
+**Lab Development Assistant**, Pomona College Physics Department *(Mar 2020 – May 2021)*
+- Spring 2020: Assisted in research, design, and planning of remote online labs for General Physics courses during the 2020-21 academic year.
+- Fall 2020/Spring 2021: Tested, ran, and gave feedback on designed labs.
+    
+**Research and Investments Assistant**, Finansia Syrus Securities, Bangkok, Thailand *(Summer 2017)*
+- Analyzed and reported on trends and advanced metrics of stocks in the Thai stock market and reported to senior researchers.
 
 ## Teaching Experiences
+
+**Teacher Assistant**, Pomona College Mathematics, Computer Science, and Physics Departments *(Fall 2020 - Present)*
+
+- Hold office hours for students in the class to come to for review, homework and content help, or just talk and hang out.
+- Run learning communities where I am responsible for the success of and meetings/review sessions with cohorts of students in the class.
+- **Fall 2022:** 
+- **Spring 2022:** 
+- **Fall 2021:** 
+- **Spring 2021:** 
+- **Fall 2020:** 
 
 ## Research Experiences and Academic Projects
 
