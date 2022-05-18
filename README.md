@@ -55,28 +55,23 @@ Majors: Computer Science and Mathematics (Statistics Track); Major GPA: 4.00, Cu
 
 <div class="row">
   <div class="column"></div>
-    - Expert
-        - Java
-        - Python
-        - R
+    <ul>
+        <li>Expert</li>
+            <li>Java</li>
+            <li>Python</li>
+            <li>R</li>
+    </ul>
   <div class="column"></div>
     hello
   <div class="column"></div>
     bruh
 </div>
 
-- Expert
-    - Java
-    - Python
-    - R
-- Proficient:
-    - C++
-    - C
-    - Haskell
-    - Gallina (Coq)
-- Prior Experience:
-    - C#
-    - SQL
+- Expert: Java, Python, R
+- 
+- Proficient: C++, C, Haskell, Gallina (Coq)
+
+- Prior Experience: C#, SQL
 
 #### Other Skills:
 
