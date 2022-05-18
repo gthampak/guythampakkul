@@ -22,10 +22,8 @@
 ## Education
 
 ### Pomona College, Claremont, CA
-
-Expected Graduation: May 2023
-
-Majors: Computer Science and Mathematics (Statistics Track); Major GPA: 4.00, Cummulative GPA: 3.95
+- Expected Graduation: May 2023
+- Majors: Computer Science and Mathematics (Statistics Track); Major GPA: 4.00, Cummulative GPA: 3.95
 
 **Computer Science Coursework**
 - Data Structures
