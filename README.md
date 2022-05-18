@@ -2,7 +2,7 @@
     
     <div id='container'>
         <p>Hi! My name is Guy. I am a senior at Pomona College, majoring in computer science and mathematics (statistics track). My academic interests include statistics, data science, machine learning theory, and algorithms, to name a few. Some of my hobbies are playing board games, cooking, writing, world building, and playing sports (soccer, tennis, basketball).</p>
-        <img src="me.jpg" width="400"/>
+        <img src="me.jpg" width="250"/>
     </div>
     
 </center>
