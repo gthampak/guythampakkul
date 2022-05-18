@@ -48,6 +48,19 @@ Majors: Computer Science and Mathematics (Statistics Track); Major GPA: 4.00, Cu
 ## Skills and Strengths
 
 #### Programming Languages:
+
+<div class="row">
+  <div class="column"></div>
+    - Expert
+        - Java
+        - Python
+        - R
+  <div class="column"></div>
+    hello
+  <div class="column"></div>
+    bruh
+</div>
+
 - Expert
     - Java
     - Python
