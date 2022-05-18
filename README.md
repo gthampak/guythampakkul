@@ -1,23 +1,36 @@
 <center>
     
     <div id='container'>
-        <p>Hi! My name is Guy. I am a senior at Pomona College, majoring in computer science and mathematics (statistics track). My academic interests include statistics, data science, machine learning theory, and algorithms, to name a few. Some of my hobbies are playing board games, cooking, writing, world building, and playing sports (soccer, tennis, basketball).</p>
         <img src="me.jpg" width="250"/>
+        <p>Hi! My name is Guy. I am a senior at Pomona College, majoring in computer science and mathematics (statistics track). My academic interests include statistics, data science, machine learning theory, and algorithms, to name a few. Some of my hobbies are playing board games, cooking, writing, world building, playing sports (soccer, tennis, badminton, basketball), and watching sports (Formula 1, NBA, NFL, Tennis, Soccer).</p>
+        <p>I am motivated by social good and the thrill of discovering and learning. I am a life-long learner looking to make an imapct.</p>
     </div>
     
 </center>
     
-------------
+---
+
+## Contact Information
+
+- Email: gthampak@gmail.com
+- Phone #: +1(909)5066340
+- github: [gthampak](https://github.com/gthampak)
+- Website: You're on it
+
+---
 
 ## Table of Contents
 
-1. [Education](#education)
-2. [Skills and Strengths](#skills-and-strengths)
-3. [Work Experiences](#work-experiences)
-4. [Teaching Experiences](#teaching-experiences)
-5. [Research Experiences and Academic Projects](#research-experiences-and-academic-projects)
-6. [Miscellaneous Projects](#miscellaneous-projects)
-7. [Extracurriculars and Additionals](#extracurriculars-and-additionals)
+1. [Contact Information](#contact-information)
+2. [Education](#education)
+3. [Skills and Strengths](#skills-and-strengths)
+4. [Work Experiences](#work-experiences)
+5. [Teaching Experiences](#teaching-experiences)
+6. [Research Experiences and Academic Projects](#research-experiences-and-academic-projects)
+7. [Miscellaneous Projects](#miscellaneous-projects)
+8. [Extracurriculars and Additionals](#extracurriculars-and-additionals)
+
+---
 
 ## Education
 
@@ -50,6 +63,8 @@
 - Computational Statistics (Machine Learning)
 - Bayesian Statistics
 
+---
+
 ## Skills and Strengths
 
 #### Programming Languages:
@@ -70,6 +85,8 @@
 - Collaboration and Team Building
 - Logic, Creativity, and Critical Thinking
 
+---
+
 ## Work Experiences
 
 **Lab Development Assistant**, Pomona College Physics Department *(Mar 2020 – May 2021)*
@@ -78,6 +95,8 @@
     
 **Research and Investments Assistant**, Finansia Syrus Securities, Bangkok, Thailand *(Summer 2017)*
 - Analyzed and reported on trends and advanced metrics of stocks in the Thai stock market and reported to senior researchers.
+
+---
 
 ## Teaching Experiences
 
@@ -90,6 +109,8 @@
 - **Fall 2021:** Probability Theory, Discrete Math and Functional Programming, Statistics
 - **Spring 2021:** Probability Theory, Discrete Math and Functional Programming, Statistics
 - **Fall 2020:** Statistics, General Physics
+
+---
 
 ## Research Experiences and Academic Projects
 
@@ -107,8 +128,13 @@
 predictions appear random with extreme discontinuity with respect to laws of physics between timesteps. The baseline model did not
 capture any information on system dynamics and predicted one position for all time steps to minimize error.
 
+---
 
 ## Miscellaneous Projects
 
+---
+
 ## Extracurriculars and Additionals
 
+
+---
