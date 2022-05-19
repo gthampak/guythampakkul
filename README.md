@@ -84,6 +84,9 @@
 
 ## Work Experiences
 
+**Software Developer**, Pomona College Funded *(Summer 2021)*
+- Look under [Research Experiences and Academic Projects](#research-experiences-and-academic-projects) for more information.
+
 **Lab Development Assistant**, Pomona College Physics Department *(Mar 2020 – May 2021)*
 - Spring 2020: Assisted in research, design, and planning of remote online labs for General Physics courses during the 2020-21 academic year.
 - Fall 2020/Spring 2021: Tested, ran, and gave feedback on designed labs.
@@ -118,10 +121,33 @@
     - Pomona College RAISE Project; Summer 2021 Poster: https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing
 
 - [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)*
+    - https://gthampak.github.io/physinet.io/
     - Trained four types of Neural Networks compared their effectiveness in forecasting double pendulum motion.
     - LNN is clearly the best model as it preserves the total energy of the system, resulting in realistic path predictions. ESN and LSTM
 predictions appear random with extreme discontinuity with respect to laws of physics between timesteps. The baseline model did not
 capture any information on system dynamics and predicted one position for all time steps to minimize error.
+
+- [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)*
+    - https://github.com/gthampak/covid-mirrors-geography
+    - Performed Principal Component Analysis (machine learning) on OWID covid dataset and applied k-means clustering over 700+ days.
+    - Countries in the same region tend to be clustered together daily which we animated beautifully onto a world map.
+
+- UCLA DATAFEST *Springs*
+    - [2022:]((https://github.com/tyxiang0530/FreeGourds2022)) Investigated Player Engagement in Yale Med’s School’s Elm City Stories Game (https://github.com/tyxiang0530/FreeGourds2022)
+        - Worked with over 2 million data points; gained insight on player engagement and game efficacy in sex and drug education.
+    - [2021:](https://github.com/Amber-Patricia-Lee/ShareThaiDatafest) Exploration, investigation, and analysis of drug-use dataset 
+    - [2020:](https://github.com/tyxiang0530/Datafest---2020)
+        - Effect of the Covid-19 Pandemic on Sentiment Scores of Popular Videos on Youtube (in the U.S., U.K., India, Australia, Canada)
+        - Award: UCLA DataFest Judges’ Award: Best Data Collection
+
+- Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal *(Fall 2020)*
+• (https://docs.google.com/document/d/1qjukCdKNuvg5FJ2znXxIV7GFMgQ1L573WaCClTOo6ZM/edit?usp=sharing)
+
+
+- Genetics (Wet Lab) and Database Project, Pomona College *(Spring 2020)*
+    - Title: Observing E. Coli Genetics in Relation to Biofilm Formation of Wild-Type and Mutant E. Coli Using Dictyostelium
+    - Identified genes responsible for formation and characteristics of bacterial biofilms through phagocytosis of Dictyostelium.
+
 
 ---
 
