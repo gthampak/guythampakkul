@@ -83,7 +83,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 #### Programming Languages:
 - Expert: Java, Python, R
 - Proficient: C++, C, Haskell, Gallina (Coq)
-- Prior Experience: C#, SQL
+- Prior Experience: C#, SQL, HTML
 
 #### Languages:
 - English: Native in Speaker, Reader, Writer
