@@ -28,7 +28,9 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 5. [Teaching Experiences](#teaching-experiences)
 6. [Research Experiences and Academic Projects](#research-experiences-and-academic-projects)
 7. [Miscellaneous Projects](#miscellaneous-projects)
-8. [Extracurriculars and Additionals](#extracurriculars-and-additionals)
+8. [Affiliations and Memberships](#affiliations-and-memberships)
+9. [Extracurriculars and Additionals](#extracurriculars-and-additionals)
+10. [Volunteer Work](#volunteer-work)
 
 ---
 
@@ -159,10 +161,16 @@ capture any information on system dynamics and predicted one position for all ti
 - Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal *(Fall 2020)*
 • (https://docs.google.com/document/d/1qjukCdKNuvg5FJ2znXxIV7GFMgQ1L573WaCClTOo6ZM/edit?usp=sharing)
 
-
 - Genetics (Wet Lab) and Database Project, Pomona College *(Spring 2020)*
     - Title: Observing E. Coli Genetics in Relation to Biofilm Formation of Wild-Type and Mutant E. Coli Using Dictyostelium
     - Identified genes responsible for formation and characteristics of bacterial biofilms through phagocytosis of Dictyostelium.
+
+- International Baccalaureate Extended Essay in Statistical Chemistry *(Fall 2017 - Fall 2018)*
+    - Statistical Investigation of Deviation of Actual-Theoretical Bond Enthalpies from Average Bond Enthalpies in Organic Compounds.
+    - Model predicted deviations to 0.1% accuracy for straight chained alkanes.
+
+- International Baccalaureate Mathematics Assessment Research Paper *Fall 2018 - Spring 2019*
+    - Modeled Relationship Between NBA Players’ Age, Efficiency, and Salary to Determine Length and Value of Next Contract
 
 ---
 
@@ -175,15 +183,44 @@ capture any information on system dynamics and predicted one position for all ti
 
 ---
 
+## Affiliations and Memberships
+- American Statistical Association *(2020 - 2021)*
+- International Honor Society Fall *(2017 – Spring 2019)*
+- National Honor Society Fall 2016 – *(Spring 2019)*
+
+---
+
 ## Extracurriculars and Additionals
 
 - Pomona College International Student Mentor *(Fall 2020 – Present)*
 - #rfordatascience-tidytuesday *(Fall 2020 – Present)*
+- Thai Student Association of The Claremont Colleges Aug 2019 – Present
+    - Provide an inclusive platform for all students affiliated to Thailand, as well as their friends, to network, socialize, and destress in a fun and active manner. Plan monthly social events.
+    - Perform community service around Bangkok. Past project examples: Volunteer at the blind foundation and daycares located in Bangkok slums, made recycled paper from used ones.
 - 5C Poker Club *(Fall 2019 – Present)*
 - 5C Board Game Group *(Fall 2019 – Present)*
 - Pomona-Pitzer Varsity Soccer Team *(Fall 2019 - Spring 2020)*
 - Claremont Colleges Club Soccer *(Fall 2021 – Present)*
 - Pomona College Orchestra (French Horn) *(Fall 2019 - Spring 2021)*
 - International School Bangkok Science Society (President) *(Fall 2015 - Spring 2019)*
+    - ISB HSSS aims to: 
+        1. Teach local Thai students the scientific method and lab skills and lead lab work and research projects for students from under resourced local schools.
+        2. Explore, investigate, and discuss current and captivating scientific knowledge, research, and studies. 
+        3. Provide opportunities for research beyond the classroom. 
+        4. Brainstorm innovative ways to express shared passions for the sciences.
+    - Facilitated 14 service outreach projects, introduced biweekly ‘science in the news’ presentations, planned and asked school for independent research funding for members of the science society and others.
 
 ---
+
+# Volunteer Work
+
+- Math Circle Mentor *(Spring 2020 – Summer 2020)*
+    - Mentor 3-4 students 2 hours a week through fun math games, activities, and problems.
+- ISB Soles4Souls *(Fall 2016 – Spring 2019)*
+    - Distribute and redistribute shoes to students in less fortunate communities to increase travel safety on foot.
+    - Our first shoe drive program collected shoe donations from the ISB and Nichada community and donated secondhand shoes to Wat Koo kindergarten school (200 pairs collected). Our successive projects comprised of searching for sponsors and selling shoe bags to raise funds to buy new shoes for kids in local foundations such as the Home for Hope foundation.
+    - Over 500 pairs of shoes donated.
+- ISB Student Ambassadors *(Fall 2014 – Spring 2019)*
+    - Welcomed and took care of 3-5 new students each semester to help make their transition to a new school be as smooth as possible.
+- English Education Service Trip to Ubon Ratchathani, Thailand *(Summer 2016)*
+    - Organized donation drive for school supplies and taught English to 150 Thai primary school kids in rural areas of Ubon Ratchathani.
