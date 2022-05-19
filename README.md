@@ -51,6 +51,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Computer Systems
 - Functional Programming
 - Discrete Mathematics
+- Senior Seminar
 
 **Mathematics Coursework**
 - Calculus Sequence (I, II, III)
@@ -62,6 +63,10 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Methods in Biostatistics (Machine Learning)
 - Computational Statistics (Machine Learning)
 - Bayesian Statistics
+- Senior Thesis (Foundations/Mathematics of Neural Networks)
+
+**Other Coursework:** Spacetime-Quanta-Entropy, Foundations of Modern Physics (Introduction to Quantum Mechanics), Genetics, Cell Chemistry and Biology, Psychology, General Chemistry, Organic Chemistry (I, II), Writing Theory, Literary Interpretation, Zoroastrianism, Basic Acting, Hip-Hop Dance
+
 
 ---
 
