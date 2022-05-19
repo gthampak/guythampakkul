@@ -67,6 +67,12 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 **Other Coursework:** Spacetime-Quanta-Entropy, Foundations of Modern Physics (Introduction to Quantum Mechanics), Genetics, Cell Chemistry and Biology, Psychology, General Chemistry, Organic Chemistry (I, II), Writing Theory, Literary Interpretation, Zoroastrianism, Basic Acting, Hip-Hop Dance
 
+### International School Bangkok, Bangkok, Thailand
+- Class of 2019
+
+**International Baccalaureate (IB) Coursework:** 
+- Higher Level Courses - Computer Science, Mathematics, Physics, Chemistry, Mathematics, Economics, Further Mathematics
+- Standard Level Courses - English A Language and Literature, Chinese A Language and Literature
 
 ---
 
@@ -76,6 +82,11 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Expert: Java, Python, R
 - Proficient: C++, C, Haskell, Gallina (Coq)
 - Prior Experience: C#, SQL
+
+#### Languages:
+- English: Native in Speaker, Reader, Writer
+- Thai: Native Speaker, Reader; Proficient Writer
+- Chinese: Proficient Speaker, Reader, Writer
 
 #### Other Skills:
 - Git, Linux, LaTeX, Microsoft Office, Presentation
