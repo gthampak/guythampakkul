@@ -148,10 +148,14 @@ capture any information on system dynamics and predicted one position for all ti
     - Title: Observing E. Coli Genetics in Relation to Biofilm Formation of Wild-Type and Mutant E. Coli Using Dictyostelium
     - Identified genes responsible for formation and characteristics of bacterial biofilms through phagocytosis of Dictyostelium.
 
-
 ---
 
 ## Miscellaneous Projects
+
+- Strategy Game (Board Game/Computer Game)*(Spring 2020 - Present)*
+    - Game design and hand-made physical prototype done.
+    - [Software/Code](https://github.com/gthampak/guy_battlefield_board_game) in very early stages, still finalizing rules of physical copy.
+    - Full Design Process, rulebook, trial game plays can be found [here](https://drive.google.com/drive/u/0/folders/1UNf2OuDfHQTyuT-Jkk5Acnxx5ir3JauA).
 
 ---
 
