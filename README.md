@@ -161,5 +161,13 @@ capture any information on system dynamics and predicted one position for all ti
 
 ## Extracurriculars and Additionals
 
+- Pomona College International Student Mentor *(Fall 2020 – Present)*
+- #rfordatascience-tidytuesday *(Fall 2020 – Present)*
+- 5C Poker Club *(Fall 2019 – Present)*
+- 5C Board Game Group *(Fall 2019 – Present)*
+- Pomona-Pitzer Varsity Soccer Team *(Fall 2019 - Spring 2020)*
+- Claremont Colleges Club Soccer *(Fall 2021 – Present)*
+- Pomona College Orchestra (French Horn) *(Fall 2019 - Spring 2021)*
+- International School Bangkok Science Society (President) *(Fall 2015 - Spring 2019)*
 
 ---
