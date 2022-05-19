@@ -193,15 +193,23 @@ capture any information on system dynamics and predicted one position for all ti
 ## Extracurriculars and Additionals
 
 - Pomona College International Student Mentor *(Fall 2020 – Present)*
+
 - #rfordatascience-tidytuesday *(Fall 2020 – Present)*
+
 - Thai Student Association of The Claremont Colleges Aug 2019 – Present
     - Provide an inclusive platform for all students affiliated to Thailand, as well as their friends, to network, socialize, and destress in a fun and active manner. Plan monthly social events.
     - Perform community service around Bangkok. Past project examples: Volunteer at the blind foundation and daycares located in Bangkok slums, made recycled paper from used ones.
+
 - 5C Poker Club *(Fall 2019 – Present)*
+
 - 5C Board Game Group *(Fall 2019 – Present)*
+
 - Pomona-Pitzer Varsity Soccer Team *(Fall 2019 - Spring 2020)*
+
 - Claremont Colleges Club Soccer *(Fall 2021 – Present)*
+
 - Pomona College Orchestra (French Horn) *(Fall 2019 - Spring 2021)*
+
 - International School Bangkok Science Society (President) *(Fall 2015 - Spring 2019)*
     - ISB HSSS aims to: 
         1. Teach local Thai students the scientific method and lab skills and lead lab work and research projects for students from under resourced local schools.
@@ -216,11 +224,16 @@ capture any information on system dynamics and predicted one position for all ti
 
 - Math Circle Mentor *(Spring 2020 – Summer 2020)*
     - Mentor 3-4 students 2 hours a week through fun math games, activities, and problems.
+
 - ISB Soles4Souls *(Fall 2016 – Spring 2019)*
     - Distribute and redistribute shoes to students in less fortunate communities to increase travel safety on foot.
-    - Our first shoe drive program collected shoe donations from the ISB and Nichada community and donated secondhand shoes to Wat Koo kindergarten school (200 pairs collected). Our successive projects comprised of searching for sponsors and selling shoe bags to raise funds to buy new shoes for kids in local foundations such as the Home for Hope foundation.
-    - Over 500 pairs of shoes donated.
+    - Our first shoe drive program collected shoe donations from the ISB and Nichada community and donated secondhand shoes to Wat Koo kindergarten school (200 pairs collected). 
+    - Our successive projects comprised of searching for sponsors and selling shoe bags to raise funds to buy new shoes for kids in local foundations such as the Home for Hope foundation (500+ pairs donated).
+
 - ISB Student Ambassadors *(Fall 2014 – Spring 2019)*
     - Welcomed and took care of 3-5 new students each semester to help make their transition to a new school be as smooth as possible.
+ 
 - English Education Service Trip to Ubon Ratchathani, Thailand *(Summer 2016)*
     - Organized donation drive for school supplies and taught English to 150 Thai primary school kids in rural areas of Ubon Ratchathani.
+
+---
