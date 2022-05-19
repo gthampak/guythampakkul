@@ -68,19 +68,14 @@
 ## Skills and Strengths
 
 #### Programming Languages:
-
 - Expert: Java, Python, R
-
 - Proficient: C++, C, Haskell, Gallina (Coq)
-
 - Prior Experience: C#, SQL
 
 #### Other Skills:
-
 - Git, Linux, LaTeX, Microsoft Office, Presentation
 
 #### Personal Strengths
-
 - Hardworking, Fun, Life-long Learner
 - Collaboration and Team Building
 - Logic, Creativity, and Critical Thinking
