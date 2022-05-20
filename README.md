@@ -41,8 +41,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Majors: Computer Science and Mathematics (Statistics Track); Major GPA: 4.00, Cummulative GPA: 3.95
 
 **Computer Science Coursework**
-- Data Structures
-- Advanced Programming
+- Data Structures and Advanced Programming
 - Advanced Data Structures
 - Algorithms
 - Computational Statistics (Machine Learning)
