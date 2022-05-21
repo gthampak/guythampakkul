@@ -42,6 +42,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 **Computer Science Coursework**
 - Data Structures and Advanced Programming
+    - .
 - Advanced Data Structures
 - Algorithms
 - Computational Statistics (Machine Learning)
