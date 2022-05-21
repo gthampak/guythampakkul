@@ -42,7 +42,6 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 **Computer Science Coursework**
 - Data Structures and Advanced Programming
-    - .
 - Advanced Data Structures
 - Algorithms
 - Computational Statistics (Machine Learning)
@@ -92,6 +91,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 #### Other Skills:
 - Git, Linux, LaTeX, Microsoft Office, Presentation
+- Statistical/Machine Learning Tools Used: t-tests, linear models, simulation/permutation methods, Fisher's exact test, logistic models, survival curves, hierarchical models, Metropolis Hastings Algorithm, Gibbs sampler, Bootstrapping, k-nearest neighbors, random forests, bagging, support vector machines, clustering, etc.
 
 #### Personal Strengths
 - Hardworking, Fun, Life-long Learner
