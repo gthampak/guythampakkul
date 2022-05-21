@@ -136,7 +136,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Software Developer - Evaluation and Optimization of Traffic Control using Original Software *(Summer 2021 - Present)*
     - Programmed traffic simulator and optimizer in Java using graph theory (https://github.com/gthampak/BangkokTrafficRaise2021)
     - Used Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion)
-    - Pomona College RAISE Project; Summer 2021 Poster: https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing
+    - Pomona College RAISE Project; Summer 2021 Poster [here](https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing).
 
 - [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)*
     - https://gthampak.github.io/physinet.io/
