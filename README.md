@@ -15,7 +15,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Email: gthampak@gmail.com
 - Phone #: +1(909)5066340
 - github: [gthampak](https://github.com/gthampak)
-- Website: You're on it
+- Website: [You're on it](https://gthampak.github.io/guythampakkul/)
 
 ---
 
