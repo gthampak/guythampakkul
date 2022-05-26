@@ -41,16 +41,16 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Majors: Computer Science and Mathematics (Statistics Track); Major GPA: 4.00, Cummulative GPA: 3.95
 
 **Computer Science Coursework**
-- Data Structures and Advanced Programming
-- Advanced Data Structures
-- Algorithms
-- Computational Statistics (Machine Learning)
+- Data Structures and Advanced Programming (in Java)
+- Advanced Data Structures (in C++)
+- Algorithms (in Python)
+- Computational Statistics (Machine Learning) (in R)
 - Reinforcement Learning
-- Managing Complex Systems (Software and Product Management)
-- Programming Languages
-- Theory and Computation
-- Computer Systems
-- Functional Programming
+- Managing Complex Systems (Software and Product Management) (AWS)
+- Programming Languages (in Haskell)
+- Theory and Computation (in Haskell)
+- Computer Systems (in C)
+- Functional Programming (in Gallina)
 - Discrete Mathematics
 - Senior Seminar
 
@@ -61,9 +61,9 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Real Analysis
 - Probability Theory
 - Statistical Theory
-- Methods in Biostatistics (Machine Learning) (link)
-- Computational Statistics (Machine Learning) (link)
-- Bayesian Statistics (link)
+- Methods in Biostatistics (Machine Learning) (in R)
+- Computational Statistics (Machine Learning) (in R)
+- Bayesian Statistics (in R)
 - Senior Thesis (Maybe Foundations/Mathematics of Neural Networks)
 
 **Other Coursework:** Spacetime-Quanta-Entropy, Foundations of Modern Physics (Introduction to Quantum Mechanics), Genetics, Cell Chemistry and Biology, Psychology, General Chemistry, Organic Chemistry (I, II), Writing Theory, Literary Interpretation, Zoroastrianism, Basic Acting, Hip-Hop Dance
