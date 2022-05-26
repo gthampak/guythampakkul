@@ -153,22 +153,26 @@ capture any information on system dynamics and predicted one position for all ti
 
 - UCLA DATAFEST *Springs* (Click on year to access respective github repositories)
     - [2022:]((https://github.com/tyxiang0530/FreeGourds2022)) Investigated Player Engagement in Yale Med’s School’s Elm City Stories Game
+        - [Google drive](https://drive.google.com/drive/folders/1XB1prYkBzXWnu-iwuiSdd577bAZ8rVAQ) with detailed notes, presentation, presentation outline, etc.
         - Worked with over 2 million data points of unpublished data on Elm City Stories, a game designed by Yale's play2Prevent Lab.
         - I was responsible for data wrangling, data cleaning and manipulation, data analysis and data visualizations.
         - We concluded that the outcome variable ("S5 scores" from surveys conducted to evaluate effectiveness of game in preventing feelings towards drug use) is highly flawed and were not collected consistently enough to inform us of the true effectiveness of the game. This conclusion is supported by a paper later published on the game's data which had much more comprehensive and fine-grained metrics through more detailed surveys to evaluate the effcetiveness of the game as well.
         - However, we did see some promising trends that the game boost confidence in making correct decisions in real life situations involving drugs for players with high engagement.
-        - [Google drive](https://drive.google.com/drive/folders/1XB1prYkBzXWnu-iwuiSdd577bAZ8rVAQ) with detailed notes, presentation, presentation outline, etc.
 
     - [2021:](https://github.com/Amber-Patricia-Lee/ShareThaiDatafest) Exploration, investigation, and analysis of drug-use dataset
+        -  [Google Drive](https://drive.google.com/drive/u/0/search?q=sharethai) with final presentation slides, brief summary of findings, and presentation video.
         -   Worked with a U.S. 2018 Drug-use dataset. 
         -   I was responsible to exploratory data exploration and data visualization and building logistic regression models for predicting use of opiods inluding variable selection, feature engineering, cross validating, and more.
         -   One interesting (but incomplete, because we ran out of time) finding from this project was the correlation between sentiment and valence scores of tweets in different states and drug use.
-        -   [Google Drive](https://drive.google.com/drive/u/0/search?q=sharethai) with final presentation slides, brief summary of findings, and presentation video.
-        -   This experience was especially unique due to our teams' circumstances. We did not achieve as much as we thought we would. Due to the pandemic, we had members working from three different countries in four different time zones, which led to challenges in communication and continuation. We learned a lot from this and by the end of the weekend wrote much more detailed notes and set clear goals for others to follow.
+        -   This experience was especially unique due to our teams' circumstances; it was a completely remote datathon in the middle of the pandemic. We did not achieve as much as we thought we would. Due to the pandemic, we had members working from three different countries in four different time zones, which led to challenges in communication and continuation. We learned a lot from this and by the end of the weekend wrote much more detailed notes and set clear goals for others to follow.
 
-    - [2020:](https://github.com/tyxiang0530/Datafest---2020)
-        - Effect of the Covid-19 Pandemic on Sentiment Scores of Popular Videos on Youtube (in the U.S., U.K., India, Australia, Canada)
+    - [2020:](https://github.com/tyxiang0530/Datafest---2020) Effect of the Covid-19 Pandemic on Sentiment Scores of Popular Videos on Youtube (in the U.S., U.K., India, Australia, Canada)
         - Award: UCLA DataFest Judges’ Award: Best Data Collection
+        - [Google Drive](https://drive.google.com/drive/u/0/folders/1MyY3tUPC5bkpHQG8ajxyuiQ8xhpZGkkl) with brief final report, final data analysis reports, data visualizations, data, and final video.
+        - We used data from the John Hopkins Covid dataset in mid March 2020, used Youtube API to access transcripts of popular youtube videos and performed sentiment analysis on them.
+        - This was a unique experience as we were not given a dataset at all and had two weeks to work on the project as opposed to one weekend.
+        - I was in charge of project brainstorming, data cleaning, wranggling, and organization, data exploration and analysis, and data visualizations.
+        - We found that in a select few categories, the proportion of popular videos with positive senitment were different before and after the Covid outbreak. However, in most categories across all countries, the sentiment scores of popular videos remained the same. We speculate that this lack of difference may be due to the relative job security of popular YouTubers, as well as the generally manufactured personality that is imprinted upon large and more ‘methodical’ YouTube channels. Despite conditions worsening, perhaps large YouTube personalities must maintain their ‘personalities’ to preserve their view count and income.
 
 - Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal *(Fall 2020)*
 • (https://docs.google.com/document/d/1qjukCdKNuvg5FJ2znXxIV7GFMgQ1L573WaCClTOo6ZM/edit?usp=sharing)
