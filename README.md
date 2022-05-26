@@ -151,9 +151,11 @@ capture any information on system dynamics and predicted one position for all ti
     - Performed Principal Component Analysis (machine learning) on OWID covid dataset and applied k-means clustering over 700+ days.
     - Countries in the same region tend to be clustered together daily which we animated beautifully onto a world map.
 
-- UCLA DATAFEST *Springs*
-    - [2022:]((https://github.com/tyxiang0530/FreeGourds2022)) Investigated Player Engagement in Yale Med’s School’s Elm City Stories Game (https://github.com/tyxiang0530/FreeGourds2022)
-        - Worked with over 2 million data points; gained insight on player engagement and game efficacy in sex and drug education.
+- UCLA DATAFEST *Springs* (Click on year to access respective github repositories)
+    - [2022:]((https://github.com/tyxiang0530/FreeGourds2022)) Investigated Player Engagement in Yale Med’s School’s Elm City Stories Game
+        - Worked with over 2 million data points of unpublished data on Elm City Stories, a game designed by Yale's play
+        - I was responsible for data wrangling, data cleaning and manipulation, data analysis and data visualizations.
+        - We concluded that the data suggests low 
     - [2021:](https://github.com/Amber-Patricia-Lee/ShareThaiDatafest) Exploration, investigation, and analysis of drug-use dataset 
     - [2020:](https://github.com/tyxiang0530/Datafest---2020)
         - Effect of the Covid-19 Pandemic on Sentiment Scores of Popular Videos on Youtube (in the U.S., U.K., India, Australia, Canada)
