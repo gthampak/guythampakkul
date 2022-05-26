@@ -120,11 +120,12 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 - Hold office hours for students in the class to come to for review, homework and content help, or just talk and hang out.
 - Run learning communities where I am responsible for the success of and meetings/review sessions with cohorts of students in the class.
-- **Fall 2022:** Advanced Linear Algebra, Computational Statistics (Machine Learning)
-- **Spring 2022:** Languages and Theory of Computation, Biostatistics
-- **Fall 2021:** Probability Theory, Discrete Math and Functional Programming, Statistics
-- **Spring 2021:** Probability Theory, Discrete Math and Functional Programming, Statistics
-- **Fall 2020:** Statistics, General Physics
+- Classes Mentored
+    - **Fall 2022:** Advanced Linear Algebra, Computational Statistics (Machine Learning)
+    - **Spring 2022:** Languages and Theory of Computation, Biostatistics
+    - **Fall 2021:** Probability Theory, Discrete Math and Functional Programming, Statistics
+    - **Spring 2021:** Probability Theory, Discrete Math and Functional Programming, Statistics
+    - **Fall 2020:** Statistics, General Physics
 
 ---
 
