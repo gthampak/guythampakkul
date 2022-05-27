@@ -144,6 +144,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 #### Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning *(Summer 2022)*
 - Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
+- more to come
 
 #### [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* 
 - (Click on project name to access github repository)
