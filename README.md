@@ -136,8 +136,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - [Evaluation and Optimization of Traffic Control using Original Software](#evaluation-and-optimization-of-traffic-control-using-original-software-summer-2021-present)
 - [PeNNdulum: A Neural Networks-Physics Project](#penndulum-a-neural-networks-physics-project-fall-2021) (Predicting Chaotic Systems -- Double Pendulum Motion)
 - [Covid Mirrors Geography](#covid-mirrors-geography-fall-2021)
-- UCLA Datafest (3x)
-- Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal
+- [UCLA Datafest](#ucla-datafest-springs) (3x)
+- [Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal](#equity-in-stem-pomona-college-physics-and-astronomy-department-wide-blind-grading-proposal-fall-2020)
 - Genetics (Wet Lab) and Database Assistantship
 - International Baccalaureate Extended Essay in Statistical Chemistry (Modeling actual bond enthalpies with theoretical bond enthalpies in organic compounds)
 - International Baccalaureate Mathematics Assessment Research Paper (Modeling NBA Player Efficiency and Salaries)
@@ -167,7 +167,8 @@ large amounts of wrangling to use our analysis on related data.
 Performed Principal Component Analysis (machine learning) on OWID covid dataset and applied k-means clustering over 700+ days.
 An interesting finding from our analysis is that countries in the same region tend to be clustered together daily. We suspected that this was because many identifier variables of these countries (continent, etc.) may be similar so there were clustered together. However, when we removed these variables and only hand-picked those that are purely pandemic related and are less likely to identify the regions of the countries, we got very similar clusters from the principal components, which is extremely interesting. This result was animated onto a world map.
 
-#### UCLA DATAFEST *Springs* (Click on year to access respective github repositories)
+#### UCLA DATAFEST *Springs* 
+- (Click on year to access respective github repositories)
 - [2022:]((https://github.com/tyxiang0530/FreeGourds2022)) Investigated Player Engagement in Yale Med’s School’s Elm City Stories Game
     - [Google drive](https://drive.google.com/drive/folders/1XB1prYkBzXWnu-iwuiSdd577bAZ8rVAQ) with detailed notes, presentation, presentation outline, etc.
     - Worked with over 2 million data points of unpublished data on Elm City Stories, a game designed by Yale's play2Prevent Lab.
