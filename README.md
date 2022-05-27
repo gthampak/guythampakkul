@@ -79,10 +79,10 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 ## Skills and Strengths
 
-#### Programming Languages:
+#### Programming:
 - Expert: Java, Python, R
 - Proficient: C++, C, Haskell, Gallina (Coq)
-- Prior Experience: C#, SQL, HTML
+- Prior Experience: C#, SQL, HTML, Pytorch
 
 #### Languages:
 - English: Native in Speaker, Reader, Writer
@@ -156,6 +156,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 #### [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* 
 - (Click on project name to access github repository)
 - Trained Fully Connected, Long Short-term Memory Recurrent, Echo State, and Lagrangian Neural Networks’ and compared their effectiveness in forecasting double pendulum motion (a chaotic system).
+- - Used PyTorch for baseline models, and modeled Echo State and Langragian Networks based on example models (linked on project webpage).
 - The goal is explore if the LNN is capable of outperforming a more general-purpose neural network that is highly successful at predicting the behavior of chaotic systems, Reservoir Computing (RC), the long-short term memory neural network (LSTM), which is excellent at forecasting sequential tasks, as well as a baseline fully-connected neural network model (FC).
 - LNN is clearly the best model as it preserves the total energy of the system, resulting in realistic path predictions. ESN and LSTM predictions appear random with extreme discontinuity with respect to laws of physics between timesteps. The baseline model did not capture any information on system dynamics and predicted one position for all time steps to minimize error.
 - I was responsible for the write-up and contributed to designing and training each neural network.
