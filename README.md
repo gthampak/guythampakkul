@@ -139,17 +139,18 @@ I am motivated by social good and the thrill of discovering and learning. I am a
     - Used Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion).
     - Pomona College RAISE Project; Summer 2021 Poster [here](https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing).
 
-- [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)*
-    - https://gthampak.github.io/physinet.io/
+- [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* (Click on project name to access github repository)
     - Trained four types of Neural Networks compared their effectiveness in forecasting double pendulum motion.
     - LNN is clearly the best model as it preserves the total energy of the system, resulting in realistic path predictions. ESN and LSTM
 predictions appear random with extreme discontinuity with respect to laws of physics between timesteps. The baseline model did not
 capture any information on system dynamics and predicted one position for all time steps to minimize error.
 
-- [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)*
-    - https://github.com/gthampak/covid-mirrors-geography
+- [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)* (Click on project name to access github repository)
+    - We wanted to investigate the similarities and differences countries in similar situations during the pandemic.
+    - We used clustering and PCA which makes our methods generalizable to other datasets since we do not have to tune a model or perform
+large amounts of wrangling to use our analysis on related data.
     - Performed Principal Component Analysis (machine learning) on OWID covid dataset and applied k-means clustering over 700+ days.
-    - Countries in the same region tend to be clustered together daily which we animated beautifully onto a world map.
+    - An interesting finding from our analysis is that countries in the same region tend to be clustered together daily. We suspected that this was because many identifier variables of these countries (continent, etc.) may be similar so there were clustered together. However, when we removed these variables and only hand-picked those that are purely pandemic related and are less likely to identify the regions of the countries, we got very similar clusters from the principal components, which is extremely interesting. This result was animated onto a world map.
 
 - UCLA DATAFEST *Springs* (Click on year to access respective github repositories)
     - [2022:]((https://github.com/tyxiang0530/FreeGourds2022)) Investigated Player Engagement in Yale Med’s School’s Elm City Stories Game
