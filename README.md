@@ -144,20 +144,21 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 #### Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning *(Summer 2022)*
 - Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
-- more to come
+- More details to come.
 
 #### [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* 
 - (Click on project name to access github repository)
 - Programmed traffic simulator and optimizer in Java using graph theory.
-- Used Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion).
+- Use Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion).
 - Pomona College RAISE Project; Summer 2021 Poster [here](https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing).
+- This project started as a project funded by Pomona College to perform data analysis on Bangkok Traffic.
 
 #### [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* 
 - (Click on project name to access github repository)
-- Trained four types of Neural Networks compared their effectiveness in forecasting double pendulum motion.
-- LNN is clearly the best model as it preserves the total energy of the system, resulting in realistic path predictions. ESN and LSTM
-predictions appear random with extreme discontinuity with respect to laws of physics between timesteps. The baseline model did not
-capture any information on system dynamics and predicted one position for all time steps to minimize error.
+- Trained Fully Connected, Long Short-term Memory Recurrent, Echo State, and Lagrangian Neural Networks’ and compared their effectiveness in forecasting double pendulum motion (a chaotic system).
+- The goal is explore if the LNN is capable of outperforming a more general-purpose neural network that is highly successful at predicting the behavior of chaotic systems, Reservoir Computing (RC), the long-short term memory neural network (LSTM), which is excellent at forecasting sequential tasks, as well as a baseline fully-connected neural network model (FC).
+- LNN is clearly the best model as it preserves the total energy of the system, resulting in realistic path predictions. ESN and LSTM predictions appear random with extreme discontinuity with respect to laws of physics between timesteps. The baseline model did not capture any information on system dynamics and predicted one position for all time steps to minimize error.
+- I was responsible for the write-up and contributed to designing and training each neural network.
 
 #### [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)* 
 - (Click on project name to access github repository)
@@ -218,6 +219,8 @@ An interesting finding from our analysis is that countries in the same region te
 - Game design and hand-made physical prototype done.
 - [Software/Code](https://github.com/gthampak/guy_battlefield_board_game) in very early stages, still finalizing rules of physical copy.
 - Full Design Process, rulebook, trial game plays can be found [here](https://drive.google.com/drive/u/0/folders/1UNf2OuDfHQTyuT-Jkk5Acnxx5ir3JauA).
+
+#### Sci-fi and Cyberpunk World Building and Short Story Series
 
 ---
 
