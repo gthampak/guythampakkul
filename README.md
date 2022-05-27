@@ -150,6 +150,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - (Click on project name to access github repository)
 - Started as a Pomona funded RAISE (Remote Alternative Independent Summer Experience) project, but turned into more.
 - Programmed traffic simulator and optimizer in Java using graph theory. Software can currently run a bug-free complete graphical road network with cars displayed in ASCII in the console with moderate simulation interactions.
+- Mostly worked on this project during the summer of 2021. However, I remain incredibly excited about this project and would come and work on it and add research questions to test with the program from time to time.
 - Worked with and interviewed Thai (traffic) police officers, Thai ministry of transportation, Bangkok Traffic and Transportation Department.
 - Use Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion).
 - Pomona College RAISE Project; Summer 2021 Poster [here](https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing).
