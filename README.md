@@ -140,7 +140,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - [Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal](#equity-in-stem-pomona-college-physics-and-astronomy-department-wide-blind-grading-proposal-fall-2020)
 - [Genetics (Wet Lab) and Database Assistantship](#genetics-wet-lab-and-database-research-assistantship-pomona-college-spring-2020)
 - [International Baccalaureate Extended Essay in Statistical Chemistry](#international-baccalaureate-extended-essay-in-statistical-chemistry-fall-2017-fall-2018) (Modeling actual bond enthalpies with theoretical bond enthalpies in organic compounds)
-- [International Baccalaureate Mathematics Assessment Research Paper](international-baccalaureate-mathematics-assessment-research-paper-fall-2018-spring-2019) (Modeling NBA Player Efficiency and Salaries)
+- [International Baccalaureate Mathematics Assessment Research Paper](#international-baccalaureate-mathematics-assessment-research-paper-fall-2018-spring-2019) (Modeling NBA Player Efficiency and Salaries)
 
 #### Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning *(Summer 2022)*
 - Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
