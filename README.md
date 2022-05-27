@@ -148,10 +148,17 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 #### [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* 
 - (Click on project name to access github repository)
-- Programmed traffic simulator and optimizer in Java using graph theory.
+- Started as a Pomona funded RAISE (Remote Alternative Independent Summer Experience) project, but turned into more.
+- Programmed traffic simulator and optimizer in Java using graph theory. Software can currently run a bug-free complete graphical road network with cars displayed in ASCII in the console with moderate simulation interactions.
+- Worked with and interviewed Thai (traffic) police officers, Thai ministry of transportation, Bangkok Traffic and Transportation Department.
 - Use Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion).
 - Pomona College RAISE Project; Summer 2021 Poster [here](https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing).
-- This project started as a project funded by Pomona College to perform data analysis on Bangkok Traffic.
+- Goals:
+    - Research methods of traffic management and control in Bangkok
+    - Synthesize available data on Bangkok traffic (in specific areas and intersections), 
+    - Investigate potential ways to alleviate traffic; experiment with different traffic light configurations and levels of human interaction in semi-autonomous systems.
+- 
+
 
 #### [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* 
 - (Click on project name to access github repository)
