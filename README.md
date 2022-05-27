@@ -175,7 +175,8 @@ capture any information on system dynamics and predicted one position for all ti
         - We found that in a select few categories, the proportion of popular videos with positive senitment were different before and after the Covid outbreak. However, in most categories across all countries, the sentiment scores of popular videos remained the same. We speculate that this lack of difference may be due to the relative job security of popular YouTubers, as well as the generally manufactured personality that is imprinted upon large and more ‘methodical’ YouTube channels. Despite conditions worsening, perhaps large YouTube personalities must maintain their ‘personalities’ to preserve their view count and income.
 
 - Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal *(Fall 2020)*
-• (https://docs.google.com/document/d/1qjukCdKNuvg5FJ2znXxIV7GFMgQ1L573WaCClTOo6ZM/edit?usp=sharing)
+    - [Link](https://docs.google.com/document/d/1qjukCdKNuvg5FJ2znXxIV7GFMgQ1L573WaCClTOo6ZM/edit?usp=sharing) to proposal to Physics department.
+    - We investigated biases in grading of student works by Professors and student graders (teaching assistants) and proposed a series of research and study supported steps and methods that could help reduce biased grading.
 
 - Genetics (Wet Lab) and Database Project, Pomona College *(Spring 2020)*
     - Title: Observing E. Coli Genetics in Relation to Biofilm Formation of Wild-Type and Mutant E. Coli Using Dictyostelium
@@ -184,6 +185,7 @@ capture any information on system dynamics and predicted one position for all ti
 - International Baccalaureate Extended Essay in Statistical Chemistry *(Fall 2017 - Fall 2018)*
     - Statistical Investigation of Deviation of Actual-Theoretical Bond Enthalpies from Average Bond Enthalpies in Organic Compounds.
     - Model predicted deviations to 0.1% accuracy for straight chained alkanes.
+    - [Link](https://drive.google.com/file/d/1e4cRi6ixVmxbSszGucOds3TGMncmFS_M/view?usp=sharing) to paper.
 
 - International Baccalaureate Mathematics Assessment Research Paper *Fall 2018 - Spring 2019*
     - Modeled Relationship Between NBA Players’ Age, Efficiency, and Salary to Determine Length and Value of Next Contract
