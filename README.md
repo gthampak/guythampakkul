@@ -150,21 +150,21 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - (Click on project name to access github repository)
 - Started as a Pomona funded RAISE (Remote Alternative Independent Summer Experience) project, but turned into more.
 - Programmed traffic simulator and optimizer in Java using graph theory. Software can currently run a bug-free complete graphical road network with cars displayed in ASCII in the console with moderate simulation interactions.
-- Mostly worked on this project during the summer of 2021. However, I remain incredibly excited about this project and would come and work on it and add research questions to test with the program from time to time.
+- Mostly worked on this project during the summer of 2021. However, I remain incredibly excited about this project and would come and work on it and add research questions to test with the program from time to time. This project is one I use to learn new things and continue to use it to learn new languages and interfaces.
 - Worked with and interviewed Thai (traffic) police officers, Thai ministry of transportation, Bangkok Traffic and Transportation Department.
 - Use Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion).
 - Pomona College RAISE Project; Summer 2021 Poster [here](https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing).
-- Goals:
-    - Research methods of traffic management and control in Bangkok
-    - Synthesize available data on Bangkok traffic (in specific areas and intersections), 
-    - Investigate potential ways to alleviate traffic; experiment with different traffic light configurations and levels of human interaction in semi-autonomous systems.
+- Original Goals:
+    1. Research methods of traffic management and control in Bangkok,
+    2. Synthesize available data on Bangkok traffic (in specific areas and intersections), 
+    3. Investigate potential ways to alleviate traffic; experiment with different traffic light configurations and levels of human interaction in semi-autonomous systems.
 - 
 
 
 #### [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* 
 - (Click on project name to access github repository)
 - Trained Fully Connected, Long Short-term Memory Recurrent, Echo State, and Lagrangian Neural Networks’ and compared their effectiveness in forecasting double pendulum motion (a chaotic system).
-- - Used PyTorch for baseline models, and modeled Echo State and Langragian Networks based on example models (linked on project webpage).
+- Used PyTorch for baseline models, and modeled Echo State and Langragian Networks based on example models (linked on project webpage).
 - The goal is explore if the LNN is capable of outperforming a more general-purpose neural network that is highly successful at predicting the behavior of chaotic systems, Reservoir Computing (RC), the long-short term memory neural network (LSTM), which is excellent at forecasting sequential tasks, as well as a baseline fully-connected neural network model (FC).
 - LNN is clearly the best model as it preserves the total energy of the system, resulting in realistic path predictions. ESN and LSTM predictions appear random with extreme discontinuity with respect to laws of physics between timesteps. The baseline model did not capture any information on system dynamics and predicted one position for all time steps to minimize error.
 - I was responsible for the write-up and contributed to designing and training each neural network.
