@@ -55,7 +55,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Senior Seminar
 
 **Mathematics Coursework**
-- Calculus Sequence (I, II, III)
+- Calculus III
 - Linear Algebra
 - Advanced Linear Algebra
 - Real Analysis
