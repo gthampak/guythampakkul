@@ -158,7 +158,16 @@ I am motivated by social good and the thrill of discovering and learning. I am a
     1. Research methods of traffic management and control in Bangkok,
     2. Synthesize available data on Bangkok traffic (in specific areas and intersections), 
     3. Investigate potential ways to alleviate traffic; experiment with different traffic light configurations and levels of human interaction in semi-autonomous systems.
-- 
+- Updated Short-term goals
+    - Improve lane change accuracy and behavior.
+    - Be able to set specific paths for cars individually to more accurately simulate rush hour traffic flow. 
+    - Analyze the success rate of cars taking specific routes through the road network under different conditions to get an idea of the effectiveness of the implemented lane changing algorithm.
+    - Transfer code to platform with better UI and start working on front-end development.
+- Updated Long-term goals
+    - Test software with larger scale road networks (full cities and towns) and evaluate efficiency of back-end implementations.
+    - Make the software field testable by police officers.
+    - Research traffic measurement metrics and add them to the software to evaluate the efficiency of different methods of traffic control and traffic light configuration.
+    - 
 
 
 #### [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* 
