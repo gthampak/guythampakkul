@@ -167,14 +167,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
     - Test software with larger scale road networks (full cities and towns) and evaluate efficiency of back-end implementations.
     - Make the software field testable by police officers.
     - Research traffic measurement metrics and add them to the software to evaluate the efficiency of different methods of traffic control and traffic light configuration.
-    - Implement different algorithms for cars and observe how they interact. Evaluate how different driving behavior affects traffic.
-
-Code in different behaviors for each car and observe how they interact. 
-Evaluate how different driving behavior affects traffic for example observing how traffic changes when proportions of cars with different behaviors vary
-Could inspire/lead to traffic regulations/conventions that alleviate traffic
-Test how different algorithms of self-driving cars would affect traffic on certain road networks.
-Urban planning, building and simulating real potential road networks and their respective traffic levels under different conditions. 
-
+    - Implement different algorithms for cars and observe how they interact. Evaluate how different driving behavior affects trafficby vary proportions of cars with respective driving behaviors and tendencies.
+    - Potential uses of software in urban planning, simulating new road networks and their respective traffic levels under different conditions before they're built, etc.
 
 #### [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* 
 - (Click on project name to access github repository)
