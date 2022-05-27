@@ -133,9 +133,9 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 #### Project List
 - [Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning](#yale-summer-undergraduate-math-research-nsf-reu-directed-graph-based-inference-in-machine-learning-summer-2022)
-- [Evaluation and Optimization of Traffic Control using Original Software]()
-- PeNNdulum: A Neural Networks-Physics Project (Predicting Chaotic Systems -- Double Pendulum Motion)
-- Covid Mirrors Geography
+- [Evaluation and Optimization of Traffic Control using Original Software](#evaluation-and-optimization-of-traffic-control-using-original-software-summer-2021-present)
+- [PeNNdulum: A Neural Networks-Physics Project](#penndulum-a-neural-networks-physics-project-fall-2021) (Predicting Chaotic Systems -- Double Pendulum Motion)
+- [Covid Mirrors Geography](#covid-mirrors-geography-fall-2021)
 - UCLA Datafest (3x)
 - Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal
 - Genetics (Wet Lab) and Database Assistantship
@@ -145,18 +145,21 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 #### Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning *(Summer 2022)*
 - Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
 
-#### [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* (Click on project name to access github repository)
+#### [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* 
+- (Click on project name to access github repository)
 - Programmed traffic simulator and optimizer in Java using graph theory.
 - Used Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion).
 - Pomona College RAISE Project; Summer 2021 Poster [here](https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing).
 
-#### [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* (Click on project name to access github repository)
+#### [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* 
+- (Click on project name to access github repository)
 - Trained four types of Neural Networks compared their effectiveness in forecasting double pendulum motion.
 - LNN is clearly the best model as it preserves the total energy of the system, resulting in realistic path predictions. ESN and LSTM
 predictions appear random with extreme discontinuity with respect to laws of physics between timesteps. The baseline model did not
 capture any information on system dynamics and predicted one position for all time steps to minimize error.
 
-#### [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)* (Click on project name to access github repository)
+#### [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)* 
+- (Click on project name to access github repository)
 - Inspired by [paper](https://www.nature.com/articles/nature07331) *Genes Mirror Geography Within Europe* published on Nature. 
 - We wanted to investigate the similarities and differences countries in similar situations during the pandemic.
 - We used clustering and PCA which makes our methods generalizable to other datasets since we do not have to tune a model or perform
