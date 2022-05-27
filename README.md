@@ -131,10 +131,21 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 ## Research Experiences and Academic Projects
 
-#### Yale Summer Undergraduate Math Research: Directed Graph Based Inference in Machine Learning *(Summer 2022)*
+#### Project List
+- [Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning](#yale-summer-undergraduate-math-research-nsf-reu-directed-graph-based-inference-in-machine-learning-summer-2022)
+- [Evaluation and Optimization of Traffic Control using Original Software]()
+- PeNNdulum: A Neural Networks-Physics Project (Predicting Chaotic Systems -- Double Pendulum Motion)
+- Covid Mirrors Geography
+- UCLA Datafest (3x)
+- Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal
+- Genetics (Wet Lab) and Database Assistantship
+- International Baccalaureate Extended Essay in Statistical Chemistry (Modeling actual bond enthalpies with theoretical bond enthalpies in organic compounds)
+- International Baccalaureate Mathematics Assessment Research Paper (Modeling NBA Player Efficiency and Salaries)
+
+#### Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning *(Summer 2022)*
 - Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
 
-#### Software Developer - [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* (Click on project name to access github repository)
+#### [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* (Click on project name to access github repository)
 - Programmed traffic simulator and optimizer in Java using graph theory.
 - Used Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion).
 - Pomona College RAISE Project; Summer 2021 Poster [here](https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing).
@@ -146,6 +157,7 @@ predictions appear random with extreme discontinuity with respect to laws of phy
 capture any information on system dynamics and predicted one position for all time steps to minimize error.
 
 #### [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)* (Click on project name to access github repository)
+- Inspired by [paper](https://www.nature.com/articles/nature07331) *Genes Mirror Geography Within Europe* published on Nature. 
 - We wanted to investigate the similarities and differences countries in similar situations during the pandemic.
 - We used clustering and PCA which makes our methods generalizable to other datasets since we do not have to tune a model or perform
 large amounts of wrangling to use our analysis on related data.
@@ -179,7 +191,7 @@ An interesting finding from our analysis is that countries in the same region te
 - [Link](https://docs.google.com/document/d/1qjukCdKNuvg5FJ2znXxIV7GFMgQ1L573WaCClTOo6ZM/edit?usp=sharing) to proposal to Physics department.
 - We investigated biases in grading of student works by Professors and student graders (teaching assistants) and proposed a series of research and study supported steps and methods that could help reduce biased grading.
 
-#### Genetics (Wet Lab) and Database Project, Pomona College *(Spring 2020)*
+#### Genetics (Wet Lab) and Database Research Assistantship, Pomona College *(Spring 2020)*
 - Title: Observing E. Coli Genetics in Relation to Biofilm Formation of Wild-Type and Mutant E. Coli Using Dictyostelium
 - Identified genes responsible for formation and characteristics of bacterial biofilms through phagocytosis of Dictyostelium.
 - I was responsible for maintaining Dictyostelium cultures and running Dictyostelium - E. Coli phagocytosis trials from start to finish. While this project has been ongoing for a while, collected data was somewhat scattered so I created a database with images and all relevant variables and information that can be easily accessible by future students and/or collaborators of the research project.
