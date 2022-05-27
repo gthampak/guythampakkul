@@ -134,8 +134,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Yale Summer Undergraduate Math Research: Directed Graph Based Inference in Machine Learning *(Summer 2022)*
     - Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
 
-- Software Developer - Evaluation and Optimization of Traffic Control using Original Software *(Summer 2021 - Present)*
-    - Programmed traffic simulator and optimizer in Java using graph theory. [github repository here](https://github.com/gthampak/BangkokTrafficRaise2021).
+- Software Developer - [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* (Click on project name to access github repository)
+    - Programmed traffic simulator and optimizer in Java using graph theory.
     - Used Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion).
     - Pomona College RAISE Project; Summer 2021 Poster [here](https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing).
 
