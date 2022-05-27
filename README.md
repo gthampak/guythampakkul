@@ -131,76 +131,76 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 ## Research Experiences and Academic Projects
 
-- Yale Summer Undergraduate Math Research: Directed Graph Based Inference in Machine Learning *(Summer 2022)*
-    - Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
+#### Yale Summer Undergraduate Math Research: Directed Graph Based Inference in Machine Learning *(Summer 2022)*
+- Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
 
-- Software Developer - [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* (Click on project name to access github repository)
-    - Programmed traffic simulator and optimizer in Java using graph theory.
-    - Used Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion).
-    - Pomona College RAISE Project; Summer 2021 Poster [here](https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing).
+#### Software Developer - [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* (Click on project name to access github repository)
+- Programmed traffic simulator and optimizer in Java using graph theory.
+- Used Victory Monument Area in Bangkok, Thailand as case study (irregular (non-grid) road network with high traffic congestion).
+- Pomona College RAISE Project; Summer 2021 Poster [here](https://drive.google.com/file/d/1zXCkl2yBgHi1qebSK-ckUoWIixA8NvKT/view?usp=sharing).
 
-- [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* (Click on project name to access github repository)
-    - Trained four types of Neural Networks compared their effectiveness in forecasting double pendulum motion.
-    - LNN is clearly the best model as it preserves the total energy of the system, resulting in realistic path predictions. ESN and LSTM
+#### [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* (Click on project name to access github repository)
+- Trained four types of Neural Networks compared their effectiveness in forecasting double pendulum motion.
+- LNN is clearly the best model as it preserves the total energy of the system, resulting in realistic path predictions. ESN and LSTM
 predictions appear random with extreme discontinuity with respect to laws of physics between timesteps. The baseline model did not
 capture any information on system dynamics and predicted one position for all time steps to minimize error.
 
-- [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)* (Click on project name to access github repository)
-    - We wanted to investigate the similarities and differences countries in similar situations during the pandemic.
-    - We used clustering and PCA which makes our methods generalizable to other datasets since we do not have to tune a model or perform
+#### [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)* (Click on project name to access github repository)
+- We wanted to investigate the similarities and differences countries in similar situations during the pandemic.
+- We used clustering and PCA which makes our methods generalizable to other datasets since we do not have to tune a model or perform
 large amounts of wrangling to use our analysis on related data.
-    - Performed Principal Component Analysis (machine learning) on OWID covid dataset and applied k-means clustering over 700+ days.
-    - An interesting finding from our analysis is that countries in the same region tend to be clustered together daily. We suspected that this was because many identifier variables of these countries (continent, etc.) may be similar so there were clustered together. However, when we removed these variables and only hand-picked those that are purely pandemic related and are less likely to identify the regions of the countries, we got very similar clusters from the principal components, which is extremely interesting. This result was animated onto a world map.
+Performed Principal Component Analysis (machine learning) on OWID covid dataset and applied k-means clustering over 700+ days.
+An interesting finding from our analysis is that countries in the same region tend to be clustered together daily. We suspected that this was because many identifier variables of these countries (continent, etc.) may be similar so there were clustered together. However, when we removed these variables and only hand-picked those that are purely pandemic related and are less likely to identify the regions of the countries, we got very similar clusters from the principal components, which is extremely interesting. This result was animated onto a world map.
 
-- UCLA DATAFEST *Springs* (Click on year to access respective github repositories)
-    - [2022:]((https://github.com/tyxiang0530/FreeGourds2022)) Investigated Player Engagement in Yale Med’s School’s Elm City Stories Game
-        - [Google drive](https://drive.google.com/drive/folders/1XB1prYkBzXWnu-iwuiSdd577bAZ8rVAQ) with detailed notes, presentation, presentation outline, etc.
-        - Worked with over 2 million data points of unpublished data on Elm City Stories, a game designed by Yale's play2Prevent Lab.
-        - I was responsible for data wrangling, data cleaning and manipulation, data analysis and data visualizations.
-        - We concluded that the outcome variable ("S5 scores" from surveys conducted to evaluate effectiveness of game in preventing feelings towards drug use) is highly flawed and were not collected consistently enough to inform us of the true effectiveness of the game. This conclusion is supported by a paper later published on the game's data which had much more comprehensive and fine-grained metrics through more detailed surveys to evaluate the effcetiveness of the game as well.
-        - However, we did see some promising trends that the game boost confidence in making correct decisions in real life situations involving drugs for players with high engagement.
+#### UCLA DATAFEST *Springs* (Click on year to access respective github repositories)
+- [2022:]((https://github.com/tyxiang0530/FreeGourds2022)) Investigated Player Engagement in Yale Med’s School’s Elm City Stories Game
+    - [Google drive](https://drive.google.com/drive/folders/1XB1prYkBzXWnu-iwuiSdd577bAZ8rVAQ) with detailed notes, presentation, presentation outline, etc.
+    - Worked with over 2 million data points of unpublished data on Elm City Stories, a game designed by Yale's play2Prevent Lab.
+    - I was responsible for data wrangling, data cleaning and manipulation, data analysis and data visualizations.
+    - We concluded that the outcome variable ("S5 scores" from surveys conducted to evaluate effectiveness of game in preventing feelings towards drug use) is highly flawed and were not collected consistently enough to inform us of the true effectiveness of the game. This conclusion is supported by a paper later published on the game's data which had much more comprehensive and fine-grained metrics through more detailed surveys to evaluate the effcetiveness of the game as well.
+    - However, we did see some promising trends that the game boost confidence in making correct decisions in real life situations involving drugs for players with high engagement.
 
-    - [2021:](https://github.com/Amber-Patricia-Lee/ShareThaiDatafest) Exploration, investigation, and analysis of drug-use dataset
-        -  [Google Drive](https://drive.google.com/drive/u/0/search?q=sharethai) with final presentation slides, brief summary of findings, and presentation video.
-        -   Worked with a U.S. 2018 Drug-use dataset. 
-        -   I was responsible to exploratory data exploration and data visualization and building logistic regression models for predicting use of opiods inluding variable selection, feature engineering, cross validating, and more.
-        -   One interesting (but incomplete, because we ran out of time) finding from this project was the correlation between sentiment and valence scores of tweets in different states and drug use.
-        -   This experience was especially unique due to our teams' circumstances; it was a completely remote datathon in the middle of the pandemic. We did not achieve as much as we thought we would. Due to the pandemic, we had members working from three different countries in four different time zones, which led to challenges in communication and continuation. We learned a lot from this and by the end of the weekend wrote much more detailed notes and set clear goals for others to follow.
+- [2021:](https://github.com/Amber-Patricia-Lee/ShareThaiDatafest) Exploration, investigation, and analysis of drug-use dataset
+    -  [Google Drive](https://drive.google.com/drive/u/0/search?q=sharethai) with final presentation slides, brief summary of findings, and presentation video.
+    -   Worked with a U.S. 2018 Drug-use dataset. 
+    -   I was responsible to exploratory data exploration and data visualization and building logistic regression models for predicting use of opiods inluding variable selection, feature engineering, cross validating, and more.
+    -   One interesting (but incomplete, because we ran out of time) finding from this project was the correlation between sentiment and valence scores of tweets in different states and drug use.
+    -   This experience was especially unique due to our teams' circumstances; it was a completely remote datathon in the middle of the pandemic. We did not achieve as much as we thought we would. Due to the pandemic, we had members working from three different countries in four different time zones, which led to challenges in communication and continuation. We learned a lot from this and by the end of the weekend wrote much more detailed notes and set clear goals for others to follow.
 
-    - [2020:](https://github.com/tyxiang0530/Datafest---2020) Effect of the Covid-19 Pandemic on Sentiment Scores of Popular Videos on Youtube (in the U.S., U.K., India, Australia, Canada)
-        - Award: UCLA DataFest Judges’ Award: Best Data Collection
-        - [Google Drive](https://drive.google.com/drive/u/0/folders/1MyY3tUPC5bkpHQG8ajxyuiQ8xhpZGkkl) with brief final report, final data analysis reports, data visualizations, data, and final video.
-        - We used data from the John Hopkins Covid dataset in mid March 2020, used Youtube API to access transcripts of popular youtube videos and performed sentiment analysis on them.
-        - This was a unique experience as we were not given a dataset at all and had two weeks to work on the project as opposed to one weekend.
-        - I was in charge of project brainstorming, data cleaning, wranggling, and organization, data exploration and analysis, and data visualizations.
-        - We found that in a select few categories, the proportion of popular videos with positive senitment were different before and after the Covid outbreak. However, in most categories across all countries, the sentiment scores of popular videos remained the same. We speculate that this lack of difference may be due to the relative job security of popular YouTubers, as well as the generally manufactured personality that is imprinted upon large and more ‘methodical’ YouTube channels. Despite conditions worsening, perhaps large YouTube personalities must maintain their ‘personalities’ to preserve their view count and income.
+- [2020:](https://github.com/tyxiang0530/Datafest---2020) Effect of the Covid-19 Pandemic on Sentiment Scores of Popular Videos on Youtube (in the U.S., U.K., India, Australia, Canada)
+    - Award: UCLA DataFest Judges’ Award: Best Data Collection
+    - [Google Drive](https://drive.google.com/drive/u/0/folders/1MyY3tUPC5bkpHQG8ajxyuiQ8xhpZGkkl) with brief final report, final data analysis reports, data visualizations, data, and final video.
+    - We used data from the John Hopkins Covid dataset in mid March 2020, used Youtube API to access transcripts of popular youtube videos and performed sentiment analysis on them.
+    - This was a unique experience as we were not given a dataset at all and had two weeks to work on the project as opposed to one weekend.
+    - I was in charge of project brainstorming, data cleaning, wranggling, and organization, data exploration and analysis, and data visualizations.
+    - We found that in a select few categories, the proportion of popular videos with positive senitment were different before and after the Covid outbreak. However, in most categories across all countries, the sentiment scores of popular videos remained the same. We speculate that this lack of difference may be due to the relative job security of popular YouTubers, as well as the generally manufactured personality that is imprinted upon large and more ‘methodical’ YouTube channels. Despite conditions worsening, perhaps large YouTube personalities must maintain their ‘personalities’ to preserve their view count and income.
 
-- Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal *(Fall 2020)*
-    - [Link](https://docs.google.com/document/d/1qjukCdKNuvg5FJ2znXxIV7GFMgQ1L573WaCClTOo6ZM/edit?usp=sharing) to proposal to Physics department.
-    - We investigated biases in grading of student works by Professors and student graders (teaching assistants) and proposed a series of research and study supported steps and methods that could help reduce biased grading.
+#### Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal *(Fall 2020)*
+- [Link](https://docs.google.com/document/d/1qjukCdKNuvg5FJ2znXxIV7GFMgQ1L573WaCClTOo6ZM/edit?usp=sharing) to proposal to Physics department.
+- We investigated biases in grading of student works by Professors and student graders (teaching assistants) and proposed a series of research and study supported steps and methods that could help reduce biased grading.
 
-- Genetics (Wet Lab) and Database Project, Pomona College *(Spring 2020)*
-    - Title: Observing E. Coli Genetics in Relation to Biofilm Formation of Wild-Type and Mutant E. Coli Using Dictyostelium
-    - Identified genes responsible for formation and characteristics of bacterial biofilms through phagocytosis of Dictyostelium.
-    - I was responsible for maintaining Dictyostelium cultures and running Dictyostelium - E. Coli phagocytosis trials from start to finish. While this project has been ongoing for a while, collected data was somewhat scattered so I created a database with images and all relevant variables and information that can be easily accessible by future students and/or collaborators of the research project.
-    - I ran over 200 trials over 9 weeks, and spent the rest of my time setting up the database and writing documentation for how to access it.
+#### Genetics (Wet Lab) and Database Project, Pomona College *(Spring 2020)*
+- Title: Observing E. Coli Genetics in Relation to Biofilm Formation of Wild-Type and Mutant E. Coli Using Dictyostelium
+- Identified genes responsible for formation and characteristics of bacterial biofilms through phagocytosis of Dictyostelium.
+- I was responsible for maintaining Dictyostelium cultures and running Dictyostelium - E. Coli phagocytosis trials from start to finish. While this project has been ongoing for a while, collected data was somewhat scattered so I created a database with images and all relevant variables and information that can be easily accessible by future students and/or collaborators of the research project.
+- I ran over 200 trials over 9 weeks, and spent the rest of my time setting up the database and writing documentation for how to access it.
 
-- International Baccalaureate Extended Essay in Statistical Chemistry *(Fall 2017 - Fall 2018)*
-    - Statistical Investigation of Deviation of Actual-Theoretical Bond Enthalpies from Average Bond Enthalpies in Organic Compounds.
-    - Model predicted deviations to 0.1% accuracy for straight chained alkanes.
-    - [Link](https://drive.google.com/file/d/1e4cRi6ixVmxbSszGucOds3TGMncmFS_M/view?usp=sharing) to paper.
+#### International Baccalaureate Extended Essay in Statistical Chemistry *(Fall 2017 - Fall 2018)*
+- Statistical Investigation of Deviation of Actual-Theoretical Bond Enthalpies from Average Bond Enthalpies in Organic Compounds.
+- Model predicted deviations to 0.1% accuracy for straight chained alkanes.
+- [Link](https://drive.google.com/file/d/1e4cRi6ixVmxbSszGucOds3TGMncmFS_M/view?usp=sharing) to paper.
 
-- International Baccalaureate Mathematics Assessment Research Paper *Fall 2018 - Spring 2019*
-    - Modeled Relationship Between NBA Players’ Age, Efficiency, and Salary to Determine Length and Value of Next Contract
+#### International Baccalaureate Mathematics Assessment Research Paper *Fall 2018 - Spring 2019*
+- Modeled Relationship Between NBA Players’ Age, Efficiency, and Salary to Determine Length and Value of Next Contract
 
 ---
 
 ## Miscellaneous Projects
 
-- Strategy Game (Board Game/Computer Game)*(Spring 2020 - Present)*
-    - Game design and hand-made physical prototype done.
-    - [Software/Code](https://github.com/gthampak/guy_battlefield_board_game) in very early stages, still finalizing rules of physical copy.
-    - Full Design Process, rulebook, trial game plays can be found [here](https://drive.google.com/drive/u/0/folders/1UNf2OuDfHQTyuT-Jkk5Acnxx5ir3JauA).
+#### Strategy Game (Board Game/Computer Game)*(Spring 2020 - Present)*
+- Game design and hand-made physical prototype done.
+- [Software/Code](https://github.com/gthampak/guy_battlefield_board_game) in very early stages, still finalizing rules of physical copy.
+- Full Design Process, rulebook, trial game plays can be found [here](https://drive.google.com/drive/u/0/folders/1UNf2OuDfHQTyuT-Jkk5Acnxx5ir3JauA).
 
 ---
 
