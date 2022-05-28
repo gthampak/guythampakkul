@@ -178,6 +178,12 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - LNN is clearly the best model as it preserves the total energy of the system, resulting in realistic path predictions. ESN and LSTM predictions appear random with extreme discontinuity with respect to laws of physics between timesteps. The baseline model did not capture any information on system dynamics and predicted one position for all time steps to minimize error.
 - I was responsible for the write-up and contributed to designing and training each neural network.
 
+<center>
+    
+    <img src="peNNdulum.jpg" width="400"/>
+    
+</center>
+
 #### [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)* 
 - (Click on project name to access github repository)
 - Inspired by [paper](https://www.nature.com/articles/nature07331) *Genes Mirror Geography Within Europe* published on Nature. 
