@@ -193,6 +193,12 @@ large amounts of wrangling to use our analysis on related data.
 Performed Principal Component Analysis (machine learning) on OWID covid dataset and applied k-means clustering over 700+ days.
 An interesting finding from our analysis is that countries in the same region tend to be clustered together daily. We suspected that this was because many identifier variables of these countries (continent, etc.) may be similar so there were clustered together. However, when we removed these variables and only hand-picked those that are purely pandemic related and are less likely to identify the regions of the countries, we got very similar clusters from the principal components, which is extremely interesting. This result was animated onto a world map.
 
+<center>
+    
+    <img src="scaled_variables_world_map.gif" width="250"/>
+    
+</center>
+
 #### UCLA DATAFEST *(Springs)* 
 - (Click on year to access respective github repositories)
 - [2022:]((https://github.com/tyxiang0530/FreeGourds2022)) Investigated Player Engagement in Yale Med’s School’s Elm City Stories Game
