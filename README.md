@@ -239,10 +239,10 @@ An interesting finding from our analysis is that countries in the same region te
 
 ## Miscellaneous Projects
 
-#### Strategy Game (Board Game/Computer Game)*(Spring 2020 - Present)*
-- Game design and hand-made physical prototype done.
-- [Software/Code](https://github.com/gthampak/guy_battlefield_board_game) in very early stages, still finalizing rules of physical copy.
-- Full Design Process, rulebook, trial game plays can be found [here](https://drive.google.com/drive/u/0/folders/1UNf2OuDfHQTyuT-Jkk5Acnxx5ir3JauA).
+- Strategy Game (Board Game/Computer Game)*(Spring 2020 - Present)*
+    - Game design and hand-made physical prototype done.
+    - [Software/Code](https://github.com/gthampak/guy_battlefield_board_game) in very early stages, still finalizing rules of physical copy.
+    - Full Design Process, rulebook, trial game plays can be found [here](https://drive.google.com/drive/u/0/folders/1UNf2OuDfHQTyuT-Jkk5Acnxx5ir3JauA).
 
 <center>
     
@@ -250,7 +250,7 @@ An interesting finding from our analysis is that countries in the same region te
     
 </center>
 
-#### Sci-fi and Cyberpunk World Building and Short Story Series
+- Sci-fi and Cyberpunk World Building and Short Story Series
 
 ---
 
