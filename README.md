@@ -180,7 +180,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 <center>
     
-    <img src="peNNdulum.jpg" width="400"/>
+    <img src="peNNdulum.png" width="400"/>
     
 </center>
 
@@ -246,7 +246,7 @@ An interesting finding from our analysis is that countries in the same region te
 
 <center>
     
-    <img src="Board_Game.jpg" width="500"/>
+    <img src="Board_Game.png" width="500"/>
     
 </center>
 
