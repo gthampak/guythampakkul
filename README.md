@@ -238,6 +238,12 @@ An interesting finding from our analysis is that countries in the same region te
 - [Software/Code](https://github.com/gthampak/guy_battlefield_board_game) in very early stages, still finalizing rules of physical copy.
 - Full Design Process, rulebook, trial game plays can be found [here](https://drive.google.com/drive/u/0/folders/1UNf2OuDfHQTyuT-Jkk5Acnxx5ir3JauA).
 
+<center>
+    
+    <img src="Board_Game.jpg" width="500"/>
+    
+</center>
+
 #### Sci-fi and Cyberpunk World Building and Short Story Series
 
 ---
