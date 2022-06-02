@@ -38,7 +38,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 ### Pomona College, Claremont, CA
 - Expected Graduation: May 2023
-- Majors: Computer Science and Mathematics (Statistics Track); Major GPA: 4.00, Cummulative GPA: 3.95
+- Majors: Computer Science and Mathematics (Statistics Track); Major GPA: 4.00, Cummulative GPA: 3.96
 
 **Computer Science Coursework**
 - Data Structures and Advanced Programming (in Java)
