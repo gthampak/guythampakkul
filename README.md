@@ -208,6 +208,12 @@ An interesting finding from our analysis is that countries in the same region te
     - We concluded that the outcome variable ("S5 scores" from surveys conducted to evaluate effectiveness of game in preventing feelings towards drug use) is highly flawed and were not collected consistently enough to inform us of the true effectiveness of the game. This conclusion is supported by a paper later published on the game's data which had much more comprehensive and fine-grained metrics through more detailed surveys to evaluate the effcetiveness of the game as well.
     - However, we did see some promising trends that the game boost confidence in making correct decisions in real life situations involving drugs for players with high engagement.
 
+<center>
+    
+    <img src="DataFest_2022.png" width="450"/>
+    
+</center>
+
 - [2021:](https://github.com/Amber-Patricia-Lee/ShareThaiDatafest) Exploration, investigation, and analysis of drug-use dataset
     -  [Google Drive](https://drive.google.com/drive/u/0/search?q=sharethai) with final presentation slides, brief summary of findings, and presentation video.
     -   Worked with a U.S. 2018 Drug-use dataset. 
