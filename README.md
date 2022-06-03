@@ -1,6 +1,6 @@
 <center>
     
-    <img src="me.jpg" width="250"/>
+    <img src="me.jpg" width="350"/>
     
 </center>
     
@@ -244,6 +244,12 @@ An interesting finding from our analysis is that countries in the same region te
 - Identified genes responsible for formation and characteristics of bacterial biofilms through phagocytosis of Dictyostelium.
 - I was responsible for maintaining Dictyostelium cultures and running Dictyostelium - E. Coli phagocytosis trials from start to finish. While this project has been ongoing for a while, collected data was somewhat scattered so I created a database with images and all relevant variables and information that can be easily accessible by future students and/or collaborators of the research project.
 - I ran over 200 trials over 9 weeks, and spent the rest of my time setting up the database and writing documentation for how to access it.
+
+<center>
+    
+    <img src="Biofilms.png" width="600"/>
+    
+</center>
 
 #### International Baccalaureate Extended Essay in Statistical Chemistry *(Fall 2017 - Fall 2018)*
 - Statistical Investigation of Deviation of Actual-Theoretical Bond Enthalpies from Average Bond Enthalpies in Organic Compounds.
