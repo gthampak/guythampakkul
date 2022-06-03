@@ -180,7 +180,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 <center>
     
-    <img src="peNNdulum.png" width="400"/>
+    <img src="peNNdulum.png" width="500"/>
     
 </center>
 
@@ -195,7 +195,7 @@ An interesting finding from our analysis is that countries in the same region te
 
 <center>
     
-    <img src="scaled_variables_world_map.gif" width="450"/>
+    <img src="scaled_variables_world_map.gif" width="600"/>
     
 </center>
 
@@ -210,7 +210,7 @@ An interesting finding from our analysis is that countries in the same region te
 
 <center>
     
-    <img src="DataFest_2022.png" width="450"/>
+    <img src="DataFest_2022.png" width="600"/>
     
 </center>
 
@@ -235,7 +235,7 @@ An interesting finding from our analysis is that countries in the same region te
 
 <center>
     
-    <img src="Blind_grading_proposal.png" width="450"/>
+    <img src="Blind_grading_proposal.png" width="600"/>
     
 </center>
 
