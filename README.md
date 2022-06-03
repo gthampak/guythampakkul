@@ -233,6 +233,12 @@ An interesting finding from our analysis is that countries in the same region te
 - [Link](https://docs.google.com/document/d/1qjukCdKNuvg5FJ2znXxIV7GFMgQ1L573WaCClTOo6ZM/edit?usp=sharing) to proposal to Physics department.
 - We investigated biases in grading of student works by Professors and student graders (teaching assistants) and proposed a series of research and study supported steps and methods that could help reduce biased grading.
 
+<center>
+    
+    <img src="Blind_grading_proposal.png" width="450"/>
+    
+</center>
+
 #### Genetics (Wet Lab) and Database Research Assistantship, Pomona College *(Spring 2020)*
 - Title: Observing E. Coli Genetics in Relation to Biofilm Formation of Wild-Type and Mutant E. Coli Using Dictyostelium
 - Identified genes responsible for formation and characteristics of bacterial biofilms through phagocytosis of Dictyostelium.
