@@ -242,8 +242,9 @@ An interesting finding from our analysis is that countries in the same region te
 #### Genetics (Wet Lab) and Database Research Assistantship, Pomona College *(Spring 2020)*
 - Title: Observing E. Coli Genetics in Relation to Biofilm Formation of Wild-Type and Mutant E. Coli Using Dictyostelium
 - Identified genes responsible for formation and characteristics of bacterial biofilms through phagocytosis of Dictyostelium.
-- I was responsible for maintaining Dictyostelium cultures and running Dictyostelium - E. Coli phagocytosis trials from start to finish. While this project has been ongoing for a while, collected data was somewhat scattered so I created a database with images and all relevant variables and information that can be easily accessible by future students and/or collaborators of the research project.
-- I ran over 200 trials over 9 weeks, and spent the rest of my time setting up the database and writing documentation for how to access it.
+- I was responsible for maintaining Dictyostelium cultures and running Dictyostelium - E. Coli phagocytosis trials from start to finish. 
+- I created an started a database for past and new data (images and all relevant variables and information) that is much easier to access and look through. While this project has been ongoing for a while, collected data was somewhat scattered so the database makes it easier for future students and/or collaborators of the research project to get caught up and understand where the project is at.
+- I ran over 300 successful E Coli.-Dictyostelium petri dish trials, and spent the rest of my time setting up the database and writing documentation for how to access it.
 
 <center>
     
