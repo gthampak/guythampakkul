@@ -214,14 +214,14 @@ An interesting finding from our analysis is that countries in the same region te
     
 </center>
 
-- [2021:](https://github.com/Amber-Patricia-Lee/ShareThaiDatafest) Exploration, investigation, and analysis of drug-use dataset
+- [2021:](https://github.com/Amber-Patricia-Lee/ShareThaiDatafest) Exploration, investigation, and analysis of drug-use dataset [(github)](https://github.com/Amber-Patricia-Lee/ShareThaiDatafest)
     -  [Google Drive](https://drive.google.com/drive/u/0/search?q=sharethai) with final presentation slides, brief summary of findings, and presentation video.
     -   Worked with a U.S. 2018 Drug-use dataset. 
     -   I was responsible to exploratory data exploration and data visualization and building logistic regression models for predicting use of opiods inluding variable selection, feature engineering, cross validating, and more.
     -   One interesting (but incomplete, because we ran out of time) finding from this project was the correlation between sentiment and valence scores of tweets in different states and drug use.
     -   This experience was especially unique due to our teams' circumstances; it was a completely remote datathon in the middle of the pandemic. We did not achieve as much as we thought we would. Due to the pandemic, we had members working from three different countries in four different time zones, which led to challenges in communication and continuation. We learned a lot from this and by the end of the weekend wrote much more detailed notes and set clear goals for others to follow.
 
-- [2020:](https://github.com/tyxiang0530/Datafest---2020) Effect of the Covid-19 Pandemic on Sentiment Scores of Popular Videos on Youtube (in the U.S., U.K., India, Australia, Canada)
+- [2020:](https://github.com/tyxiang0530/Datafest---2020) Effect of the Covid-19 Pandemic on Sentiment Scores of Popular Videos on Youtube (in the U.S., U.K., India, Australia, Canada) [(github)](https://github.com/tyxiang0530/Datafest---2020)
     - Award: UCLA DataFest Judges’ Award: Best Data Collection
     - [Google Drive](https://drive.google.com/drive/u/0/folders/1MyY3tUPC5bkpHQG8ajxyuiQ8xhpZGkkl) with brief final report, final data analysis reports, data visualizations, data, and final video.
     - We used data from the John Hopkins Covid dataset in mid March 2020, used Youtube API to access transcripts of popular youtube videos and performed sentiment analysis on them.
