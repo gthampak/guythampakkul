@@ -6,7 +6,7 @@
     
 Hi! My name is Guy. I am a senior at Pomona College, majoring in computer science and mathematics (statistics track). My academic interests include machine learning theory, statistics,algorithms, and data science, to name a few. Some of my hobbies are playing board games, cooking, writing, world building, playing sports (soccer, tennis, badminton, basketball), and watching sports (Formula 1, NBA, NFL, Tennis, Soccer).
 
-I am motivated by social good and the thrill of discovering and learning. I am a life-long learner looking to make an imapct. Have an awesome day!
+I am motivated by social good and the thrill of discovering and learning. I am a life-long learner looking to make an impact. Have an awesome day!
     
 ---
 
