@@ -141,7 +141,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 ### Project List
 - [Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning](#yale-summer-undergraduate-math-research-nsf-reu-directed-graph-based-inference-in-machine-learning-summer-2022)
-- [Evaluation and Optimization of Traffic Control using Original Software](#evaluation-and-optimization-of-traffic-control-using-original-software-github-summer-2021-Present)
+- [Evaluation and Optimization of Traffic Control using Original Software](#evaluation-and-optimization-of-traffic-control-using-original-software-github-summer-2021-present)
 - [PeNNdulum: A Neural Networks-Physics Project](#penndulum-a-neural-networks-physics-project-github-fall-2021) (Predicting Chaotic Systems -- Double Pendulum Motion)
 - [Covid Mirrors Geography](#covid-mirrors-geography-github-fall-2021)
 - [UCLA Datafest](#ucla-datafest-springs) (3x)
