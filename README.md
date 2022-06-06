@@ -141,7 +141,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 ### Project List
 - [Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning](#yale-summer-undergraduate-math-research-nsf-reu-directed-graph-based-inference-in-machine-learning-summer-2022)
-- [Evaluation and Optimization of Traffic Control using Original Software](#evaluation-and-optimization-of-traffic-management-using-original-software-github-summer-2021-present)
+- [Evaluation and Optimization of Traffic Control using Original Software](#e)
+- evaluation-and-optimization-of-traffic-management-using-original-software-github-summer-2021-present)
 - [PeNNdulum: A Neural Networks-Physics Project](#penndulum-a-neural-networks-physics-project-github-fall-2021) (Predicting Chaotic Systems -- Double Pendulum Motion)
 - [Covid Mirrors Geography](#covid-mirrors-geography-github-fall-2021)
 - [UCLA Datafest](#ucla-datafest-springs) (3x)
@@ -158,7 +159,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
-### Evaluation and Optimization of Traffic Management using Original Software [[github]](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)*
+### e
+Evaluation and Optimization of Traffic Management using Original Software [[github]](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)*
 - Started as a Pomona funded RAISE (Remote Alternative Independent Summer Experience) project, but turned into more.
 - Programmed traffic simulator and optimizer in Java using graph theory. Software can currently run a bug-free complete graphical road network with cars displayed in ASCII in the console with moderate simulation interactions.
 - Mostly worked on this project during the summer of 2021. However, I remain incredibly excited about this project and would come and work on it and add research questions to test with the program from time to time. This project is one I use to learn new things and continue to use it to learn new languages and interfaces.
