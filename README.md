@@ -72,7 +72,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Class of 2019
 
 **International Baccalaureate (IB) Coursework:** 
-- Higher Level Courses - Computer Science, Mathematics, Physics, Chemistry, Mathematics, Economics, Further Mathematics
+- Higher Level Courses - Computer Science, Mathematics, Physics, Chemistry, Economics, Further Mathematics
 - Standard Level Courses - English A Language and Literature, Chinese A Language and Literature
 
 [[Back to Table of Contents]](#table-of-contents)
