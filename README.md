@@ -153,6 +153,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 ### Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning *(Summer 2022)*
 - Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
 - More details to come.
+- General [github](https://github.com/professorwug/SUMRY-2022).
+- [github](https://github.com/professorwug/losscurves) for refining the diffusion curvature algorithm and understanding loss curves through implementation.
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
