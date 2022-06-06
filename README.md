@@ -139,7 +139,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 ## Research Experiences and Academic Projects
 
-#### Project List
+### Project List
 - [Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning](#yale-summer-undergraduate-math-research-nsf-reu-directed-graph-based-inference-in-machine-learning-summer-2022)
 - [Evaluation and Optimization of Traffic Control using Original Software](#evaluation-and-optimization-of-traffic-control-using-original-software-summer-2021-present)
 - [PeNNdulum: A Neural Networks-Physics Project](#penndulum-a-neural-networks-physics-project-fall-2021) (Predicting Chaotic Systems -- Double Pendulum Motion)
@@ -150,13 +150,13 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - International Baccalaureate Extended Essay in Statistical Chemistry (Modeling actual bond enthalpies with theoretical bond enthalpies in organic compounds)
 - International Baccalaureate Mathematics Assessment Research Paper (Modeling NBA Player Efficiency and Salaries)
 
-#### Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning *(Summer 2022)*
+### Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning *(Summer 2022)*
 - Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
 - More details to come.
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
-#### [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* 
+### [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* 
 - (Click on project name to access github repository)
 - Started as a Pomona funded RAISE (Remote Alternative Independent Summer Experience) project, but turned into more.
 - Programmed traffic simulator and optimizer in Java using graph theory. Software can currently run a bug-free complete graphical road network with cars displayed in ASCII in the console with moderate simulation interactions.
@@ -182,7 +182,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
-#### [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* 
+### [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* 
 - (Click on project name to access github repository)
 - Trained Fully Connected, Long Short-term Memory Recurrent, Echo State, and Lagrangian Neural Networks’ and compared their effectiveness in forecasting double pendulum motion (a chaotic system).
 - Used PyTorch for baseline models, and modeled Echo State and Langragian Networks based on example models (linked on project webpage).
@@ -198,7 +198,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
-#### [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)* 
+### [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)* 
 - (Click on project name to access github repository)
 - Inspired by [paper](https://www.nature.com/articles/nature07331) *Genes Mirror Geography Within Europe* published on Nature. 
 - We wanted to investigate the similarities and differences countries in similar situations during the pandemic.
@@ -215,7 +215,7 @@ An interesting finding from our analysis is that countries in the same region te
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
-#### UCLA DATAFEST *(Springs)* 
+### UCLA DATAFEST *(Springs)* 
 - (Click on year to access respective github repositories)
 - [2022:]((https://github.com/tyxiang0530/FreeGourds2022)) Investigated Player Engagement in Yale Med’s School’s Elm City Stories Game
     - [Google drive](https://drive.google.com/drive/folders/1XB1prYkBzXWnu-iwuiSdd577bAZ8rVAQ) with detailed notes, presentation, presentation outline, etc.
@@ -247,7 +247,7 @@ An interesting finding from our analysis is that countries in the same region te
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
-#### Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal *(Fall 2020)*
+### Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal *(Fall 2020)*
 - [Link](https://docs.google.com/document/d/1qjukCdKNuvg5FJ2znXxIV7GFMgQ1L573WaCClTOo6ZM/edit?usp=sharing) to proposal to Physics department.
 - We investigated biases in grading of student works by Professors and student graders (teaching assistants) and proposed a series of research and study supported steps and methods that could help reduce biased grading.
 
@@ -259,7 +259,7 @@ An interesting finding from our analysis is that countries in the same region te
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
-#### Genetics (Wet Lab) and Database Research Assistantship, Pomona College *(Spring 2020)*
+### Genetics (Wet Lab) and Database Research Assistantship, Pomona College *(Spring 2020)*
 - Title: Observing E. Coli Genetics in Relation to Biofilm Formation of Wild-Type and Mutant E. Coli Using Dictyostelium
 - Identified genes responsible for formation and characteristics of bacterial biofilms through phagocytosis of Dictyostelium.
 - I was responsible for maintaining Dictyostelium cultures and running Dictyostelium - E. Coli phagocytosis trials from start to finish. 
@@ -274,14 +274,14 @@ An interesting finding from our analysis is that countries in the same region te
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
-#### International Baccalaureate Extended Essay in Statistical Chemistry *(Fall 2017 - Fall 2018)*
+### International Baccalaureate Extended Essay in Statistical Chemistry *(Fall 2017 - Fall 2018)*
 - Statistical Investigation of Deviation of Actual-Theoretical Bond Enthalpies from Average Bond Enthalpies in Organic Compounds.
 - Model predicted deviations to 0.1% accuracy for straight chained alkanes.
 - [Link](https://drive.google.com/file/d/1e4cRi6ixVmxbSszGucOds3TGMncmFS_M/view?usp=sharing) to paper.
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
-#### International Baccalaureate Mathematics Assessment Research Paper *Fall 2018 - Spring 2019*
+### International Baccalaureate Mathematics Assessment Research Paper *Fall 2018 - Spring 2019*
 - Modeled Relationship Between NBA Players’ Age, Efficiency, and Salary to Determine Length and Value of Next Contract
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
