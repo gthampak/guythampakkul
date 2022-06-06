@@ -141,9 +141,9 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 ### Project List
 - [Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning](#yale-summer-undergraduate-math-research-nsf-reu-directed-graph-based-inference-in-machine-learning-summer-2022)
-- [Evaluation and Optimization of Traffic Control using Original Software](#evaluation-and-optimization-of-traffic-control-using-original-software-Summer-2021-Present)
-- [PeNNdulum: A Neural Networks-Physics Project](#penndulum-a-neural-networks-physics-project-fall-2021) (Predicting Chaotic Systems -- Double Pendulum Motion)
-- [Covid Mirrors Geography](#covid-mirrors-geography-fall-2021)
+- [Evaluation and Optimization of Traffic Control using Original Software](#evaluation-and-optimization-of-traffic-control-using-original-software-github-Summer-2021-Present)
+- [PeNNdulum: A Neural Networks-Physics Project](#penndulum-a-neural-networks-physics-project-github-fall-2021) (Predicting Chaotic Systems -- Double Pendulum Motion)
+- [Covid Mirrors Geography](#covid-mirrors-geography-github-fall-2021)
 - [UCLA Datafest](#ucla-datafest-springs) (3x)
 - [Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal](#equity-in-stem-pomona-college-physics-and-astronomy-department-wide-blind-grading-proposal-fall-2020)
 - [Genetics (Wet Lab) and Database Assistantship](#genetics-wet-lab-and-database-research-assistantship-pomona-college-spring-2020)
@@ -158,8 +158,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
-### Evaluation and Optimization of Traffic Control using Original Software *(Summer 2021 - Present)* 
-- [[github]](https://github.com/gthampak/BangkokTrafficRaise2021)
+### Evaluation and Optimization of Traffic Control using Original Software [[github]](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* 
 - Started as a Pomona funded RAISE (Remote Alternative Independent Summer Experience) project, but turned into more.
 - Programmed traffic simulator and optimizer in Java using graph theory. Software can currently run a bug-free complete graphical road network with cars displayed in ASCII in the console with moderate simulation interactions.
 - Mostly worked on this project during the summer of 2021. However, I remain incredibly excited about this project and would come and work on it and add research questions to test with the program from time to time. This project is one I use to learn new things and continue to use it to learn new languages and interfaces.
@@ -184,8 +183,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
-### PeNNdulum: A Neural Networks-Physics Project *(Fall 2021)* 
-- [[github]](https://gthampak.github.io/physinet.io/)
+### PeNNdulum: A Neural Networks-Physics Project [[github]](https://gthampak.github.io/physinet.io/) *(Fall 2021)* 
 - Trained Fully Connected, Long Short-term Memory Recurrent, Echo State, and Lagrangian Neural Networks’ and compared their effectiveness in forecasting double pendulum motion (a chaotic system).
 - Used PyTorch for baseline models, and modeled Echo State and Langragian Networks based on example models (linked on project webpage).
 - The goal is explore if the LNN is capable of outperforming a more general-purpose neural network that is highly successful at predicting the behavior of chaotic systems, Reservoir Computing (RC), the long-short term memory neural network (LSTM), which is excellent at forecasting sequential tasks, as well as a baseline fully-connected neural network model (FC).
@@ -200,8 +198,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
-### Covid Mirrors Geography *(Fall 2021)* 
-- [[github]](https://github.com/gthampak/covid-mirrors-geography)
+### Covid Mirrors Geography [[github]](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)* 
 - Inspired by [paper](https://www.nature.com/articles/nature07331) *Genes Mirror Geography Within Europe* published on Nature. 
 - We wanted to investigate the similarities and differences countries in similar situations during the pandemic.
 - We used clustering and PCA which makes our methods generalizable to other datasets since we do not have to tune a model or perform
