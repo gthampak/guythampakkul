@@ -75,6 +75,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Higher Level Courses - Computer Science, Mathematics, Physics, Chemistry, Mathematics, Economics, Further Mathematics
 - Standard Level Courses - English A Language and Literature, Chinese A Language and Literature
 
+[[Back to Table of Contents]](#table-of-contents)
+
 ---
 
 ## Skills and Strengths
@@ -97,6 +99,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Hardworking, Fun, Life-long Learner
 - Collaboration and Team Building
 - Logic, Creativity, and Critical Thinking
+
+[[Back to Table of Contents]](#table-of-contents)
 
 ---
 
