@@ -50,7 +50,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Programming Languages (in Haskell)
 - Theory and Computation (in Haskell)
 - Computer Systems (in C)
-- Functional Programming (in Gallina)
+- Functional Programming (in Gallina/Coq)
 - Discrete Mathematics
 - Senior Seminar
 
