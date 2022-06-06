@@ -6,7 +6,7 @@
     
 Hi! My name is Guy. I am a senior at Pomona College, majoring in computer science and mathematics (statistics track). My academic interests include machine learning theory, statistics,algorithms, and data science, to name a few. Some of my hobbies are playing board games, cooking, writing, world building, playing sports (soccer, tennis, badminton, basketball), and watching sports (Formula 1, NBA, NFL, Tennis, Soccer).
 
-I am motivated by social good and the thrill of discovering and learning. I am a life-long learner looking to make an imapct.
+I am motivated by social good and the thrill of discovering and learning. I am a life-long learner looking to make an imapct. Have an awesome day!
     
 ---
 
@@ -116,6 +116,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 **Research and Investments Assistant**, Finansia Syrus Securities, Bangkok, Thailand *(Summer 2017)*
 - Analyzed and reported on trends and advanced metrics of stocks in the Thai stock market and reported to senior researchers.
 
+[[Back to Table of Contents]](#table-of-contents)
+
 ---
 
 ## Teaching Experiences
@@ -130,6 +132,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
     - **Fall 2021:** Probability Theory, Discrete Math and Functional Programming, Statistics
     - **Spring 2021:** Probability Theory, Discrete Math and Functional Programming, Statistics
     - **Fall 2020:** Statistics, General Physics
+
+[[Back to Table of Contents]](#table-of-contents)
 
 ---
 
@@ -149,6 +153,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 #### Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning *(Summer 2022)*
 - Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
 - More details to come.
+
+[[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
 #### [Evaluation and Optimization of Traffic Control using Original Software](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)* 
 - (Click on project name to access github repository)
@@ -174,6 +180,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
     - Implement different algorithms for cars and observe how they interact. Evaluate how different driving behavior affects trafficby vary proportions of cars with respective driving behaviors and tendencies.
     - Potential uses of software in urban planning, simulating new road networks and their respective traffic levels under different conditions before they're built, etc.
 
+[[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
+
 #### [PeNNdulum: A Neural Networks-Physics Project](https://gthampak.github.io/physinet.io/) *(Fall 2021)* 
 - (Click on project name to access github repository)
 - Trained Fully Connected, Long Short-term Memory Recurrent, Echo State, and Lagrangian Neural Networks’ and compared their effectiveness in forecasting double pendulum motion (a chaotic system).
@@ -187,6 +195,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
     <img src="peNNdulum.png" width="500"/>
     
 </center>
+
+[[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
 #### [Covid Mirrors Geography](https://github.com/gthampak/covid-mirrors-geography) *(Fall 2021)* 
 - (Click on project name to access github repository)
@@ -202,6 +212,8 @@ An interesting finding from our analysis is that countries in the same region te
     <img src="scaled_variables_world_map.gif" width="450"/>
     
 </center>
+
+[[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
 #### UCLA DATAFEST *(Springs)* 
 - (Click on year to access respective github repositories)
@@ -233,6 +245,8 @@ An interesting finding from our analysis is that countries in the same region te
     - I was in charge of project brainstorming, data cleaning, wranggling, and organization, data exploration and analysis, and data visualizations.
     - We found that in a select few categories, the proportion of popular videos with positive senitment were different before and after the Covid outbreak. However, in most categories across all countries, the sentiment scores of popular videos remained the same. We speculate that this lack of difference may be due to the relative job security of popular YouTubers, as well as the generally manufactured personality that is imprinted upon large and more ‘methodical’ YouTube channels. Despite conditions worsening, perhaps large YouTube personalities must maintain their ‘personalities’ to preserve their view count and income.
 
+[[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
+
 #### Equity in STEM: Pomona College Physics and Astronomy Department-wide Blind Grading Proposal *(Fall 2020)*
 - [Link](https://docs.google.com/document/d/1qjukCdKNuvg5FJ2znXxIV7GFMgQ1L573WaCClTOo6ZM/edit?usp=sharing) to proposal to Physics department.
 - We investigated biases in grading of student works by Professors and student graders (teaching assistants) and proposed a series of research and study supported steps and methods that could help reduce biased grading.
@@ -242,6 +256,8 @@ An interesting finding from our analysis is that countries in the same region te
     <img src="Blind_grading_proposal.png" width="600"/>
     
 </center>
+
+[[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
 #### Genetics (Wet Lab) and Database Research Assistantship, Pomona College *(Spring 2020)*
 - Title: Observing E. Coli Genetics in Relation to Biofilm Formation of Wild-Type and Mutant E. Coli Using Dictyostelium
@@ -256,13 +272,20 @@ An interesting finding from our analysis is that countries in the same region te
     
 </center>
 
+[[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
+
 #### International Baccalaureate Extended Essay in Statistical Chemistry *(Fall 2017 - Fall 2018)*
 - Statistical Investigation of Deviation of Actual-Theoretical Bond Enthalpies from Average Bond Enthalpies in Organic Compounds.
 - Model predicted deviations to 0.1% accuracy for straight chained alkanes.
 - [Link](https://drive.google.com/file/d/1e4cRi6ixVmxbSszGucOds3TGMncmFS_M/view?usp=sharing) to paper.
 
+[[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
+
 #### International Baccalaureate Mathematics Assessment Research Paper *Fall 2018 - Spring 2019*
 - Modeled Relationship Between NBA Players’ Age, Efficiency, and Salary to Determine Length and Value of Next Contract
+
+[[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
+[[Back to Table of Contents]](#table-of-contents)
 
 ---
 
@@ -281,12 +304,16 @@ An interesting finding from our analysis is that countries in the same region te
 
 - Sci-fi and Cyberpunk World Building and Short Story Series
 
+[[Back to Table of Contents]](#table-of-contents)
+
 ---
 
 ## Affiliations and Memberships
 - American Statistical Association *(2020 - 2021)*
 - International Honor Society Fall *(2017 – Spring 2019)*
 - National Honor Society Fall 2016 – *(Spring 2019)*
+
+[[Back to Table of Contents]](#table-of-contents)
 
 ---
 
@@ -318,6 +345,8 @@ An interesting finding from our analysis is that countries in the same region te
         4. Brainstorm innovative ways to express shared passions for the sciences.
     - Facilitated 14 service outreach projects, introduced biweekly ‘science in the news’ presentations, planned and asked school for independent research funding for members of the science society and others.
 
+[[Back to Table of Contents]](#table-of-contents)
+
 ---
 
 # Volunteer Work
@@ -336,4 +365,8 @@ An interesting finding from our analysis is that countries in the same region te
 - English Education Service Trip to Ubon Ratchathani, Thailand *(Summer 2016)*
     - Organized donation drive for school supplies and taught English to 150 Thai primary school kids in rural areas of Ubon Ratchathani.
 
+[[Back to Table of Contents]](#table-of-contents)
+
 ---
+
+Thanks for making it this far! Feel free to reach out to talk about anything. [[Contact Information]](contact-information).
