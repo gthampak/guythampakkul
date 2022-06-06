@@ -369,4 +369,4 @@ An interesting finding from our analysis is that countries in the same region te
 
 ---
 
-Thanks for making it this far! Feel free to reach out to talk about anything. [[Contact Information]](contact-information).
+Thanks for making it this far! Feel free to reach out to talk about anything. [[Contact Information]](#contact-information).
