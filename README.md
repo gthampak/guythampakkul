@@ -151,8 +151,10 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - International Baccalaureate Mathematics Assessment Research Paper (Modeling NBA Player Efficiency and Salaries)
 
 ### Yale Summer Undergraduate Math Research (NSF REU): Directed Graph Based Inference in Machine Learning *(Summer 2022)*
-- Goals are to discover new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
-- More details to come.
+- Directed Graph Based Inference in Machine Learning 
+    - Explore new metrics for directed graphs, design algorithms for informative embeddings, and incorporate these into graph neural networks computations to define classes of methods for graph attention, graph filtering, and message passing and aggregation.
+- Diffusion curvature and Hessian approximations
+    - Develop a notion of curvature for point cloud data that relies on the diffusion geometry framework and exploring applications of this ‘diffusion curvature’ to Hessian approximation, gradient descent, loss landscapes, and other applications in data geometry.
 - General [github](https://github.com/professorwug/SUMRY-2022).
 - [github](https://github.com/professorwug/losscurves) for refining the diffusion curvature algorithm and understanding loss curves through implementation.
 
