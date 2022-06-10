@@ -157,9 +157,9 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Diffusion curvature and Hessian approximations
     - Develop a notion of curvature for point cloud data that relies on the diffusion geometry framework and exploring applications of this ‘diffusion curvature’ to Hessian approximation, gradient descent, loss landscapes, and other applications in data geometry.
 - General [[github]](https://github.com/professorwug/SUMRY-2022) for Yale SUMRY ML Team.
-- [[Loss Curves Project github]](https://github.com/professorwug/losscurves).
-- [[Diffusion Curvature Project github]](https://github.com/professorwug/diffusion_curvature).
-- [[Directed Graphs Project github]](https://github.com/professorwug/directed_graphs).
+- [[Loss Curves Project github]](https://github.com/professorwug/losscurves): Exploration of how different neural network architecture designs and choices (in FCNNs, CNNs, GNNs) affect loss landscape with respect to smoothness, flatness of critical points, (diffusion) curvature, etc.
+- [[Diffusion Curvature Project github]](https://github.com/professorwug/diffusion_curvature): Improving novel diffusion curvature (2022) as a metric for meausring curvature of data clouds and graphs, strengthen proof of diffusion curvature, and further explore and investigate applications for it in machine learning.
+- [[Directed Graphs Project github]](https://github.com/professorwug/directed_graphs): Design metric for "influence" in directed graph (social networks) and investigate and characterize information captured by different (directed/undirected) graph neural network infrastructures (MagNet, ChebNet, GCN, DGCN, etc.).
 
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
