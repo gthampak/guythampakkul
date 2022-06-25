@@ -66,6 +66,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Bayesian Statistics (in R)
 - Senior Thesis (Maybe Foundations/Mathematics of Neural Networks)
 
+**AIT Budapest Study Abroad** (Spring 2023)
+
 **Other Coursework:** Spacetime-Quanta-Entropy, Foundations of Modern Physics (Introduction to Quantum Mechanics), Genetics, Cell Chemistry and Biology, Psychology, General Chemistry, Organic Chemistry (I, II), Writing Theory, Literary Interpretation, Zoroastrianism, Basic Acting, Hip-Hop Dance
 
 ### International School Bangkok, Bangkok, Thailand
