@@ -161,6 +161,8 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - [[Diffusion Curvature Project github]](https://github.com/professorwug/diffusion_curvature): Improving novel diffusion curvature (2022) as a metric for meausring curvature of data clouds and graphs, strengthen proof of diffusion curvature, and further explore and investigate applications for it in machine learning.
 - [[Directed Graphs Project github]](https://github.com/professorwug/directed_graphs): Design metric for "influence" in directed graph (social networks) and investigate and characterize information captured by different (directed/undirected) graph neural network infrastructures (MagNet, ChebNet, GCN, DGCN, etc.).
 
+- [[FlowNet]](https://github.com/professorwug/FlowNet)
+
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
 ### Evaluation and Optimization of Traffic Control using Original Software [[github]](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)*
