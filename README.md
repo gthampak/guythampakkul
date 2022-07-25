@@ -165,9 +165,6 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Secondary Project: Diffusion curvature and Hessian approximations – Develop a notion of curvature for point cloud data that relies on the diffusion geometry framework and exploring applications of this ‘diffusion curvature’ to Hessian approximation, gradient descent, loss landscapes, and other applications in data geometry.
 - Other thoughts and reading group work: Exploration of how different neural network architecture designs and choices (in FCNNs, CNNs, GNNs) affect loss landscape with respect to smoothness, flatness of critical points, (diffusion) curvature, etc., and magnetic laplacian and eigenmaps.
 
-
-- [[FlowNet]](https://github.com/professorwug/FlowNet)
-
 [[Back to Top of Research Experiences and Academic Projects]](#research-experiences-and-academic-projects)
 
 ### Evaluation and Optimization of Traffic Control using Original Software [[github]](https://github.com/gthampak/BangkokTrafficRaise2021) *(Summer 2021 - Present)*
