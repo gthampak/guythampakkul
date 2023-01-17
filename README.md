@@ -85,8 +85,8 @@ Have an awesome day!
 
 #### Programming:
 - Expert: Java, Python, R
-- Proficient: C++, C, Haskell, Gallina (Coq)
-- Prior Experience: C#, SQL, HTML, Pytorch
+- Proficient: C++, C, Haskell, Gallina (Coq), Pytorch
+- Prior Experience: C#, SQL, HTML
 
 #### Languages:
 - English: Native in Speaker, Reader, Writer
@@ -130,6 +130,7 @@ Have an awesome day!
 - Run learning communities where I am responsible for the success of and meetings/review sessions with cohorts of students in the class.
 - Grade homeworks and labs.
 - Classes Mentored
+    - **Spring 2023:** Algorithms, Methods in Biostatistics
     - **Fall 2022:** Advanced Linear Algebra, Computational Statistics (Machine Learning)
     - **Spring 2022:** Languages and Theory of Computation, Biostatistics
     - **Fall 2021:** Probability Theory, Discrete Math and Functional Programming, Statistics
