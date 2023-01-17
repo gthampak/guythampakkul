@@ -6,7 +6,9 @@
     
 Hi! My name is Guy. I am a senior at Pomona College, majoring in computer science and mathematics (statistics track). My academic interests include machine learning theory, statistics, algorithms, and data science, to name a few. Some of my hobbies are playing board games, cooking, writing, world building, playing sports (soccer, tennis, badminton, basketball), and watching sports (Formula 1, NBA, NFL, Tennis, Soccer).
 
-I am motivated by social good and the thrill of discovering and learning. I am a life-long learner looking to make an impact. Have an awesome day!
+I am motivated by social good and the thrill of discovering and learning. I am a life-long learner looking to make an impact. 
+
+Have an awesome day!
     
 ---
 
@@ -42,17 +44,17 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 
 **Computer Science Coursework**
 - Data Structures and Advanced Programming (in Java)
-- Advanced Data Structures (in C++)
+- Advanced Data Structures (in C++ and Python)
 - Algorithms (in Python)
-- Computational Statistics (Machine Learning) (in R)
 - Reinforcement Learning
 - Managing Complex Systems (Software and Product Management) (AWS)
+- Machine Learning Systems Design
 - Programming Languages (in Haskell)
 - Theory and Computation (in Haskell)
 - Computer Systems (in C)
 - Functional Programming (in Gallina/Coq)
 - Discrete Mathematics
-- Senior Seminar
+- Senior Seminar (Survey Paper on Generalization Error and biases of Neural Networks)
 
 **Mathematics Coursework**
 - Calculus III
@@ -64,9 +66,7 @@ I am motivated by social good and the thrill of discovering and learning. I am a
 - Methods in Biostatistics (Machine Learning) (in R)
 - Computational Statistics (Machine Learning) (in R)
 - Bayesian Statistics (in R)
-- Senior Thesis (Maybe Foundations/Mathematics of Neural Networks)
-
-**AIT Budapest Study Abroad** (Spring 2023)
+- Senior Thesis (Extending Use of Depth Quantile Functions to Unsupervised Learning)
 
 **Other Coursework:** Spacetime-Quanta-Entropy, Foundations of Modern Physics (Introduction to Quantum Mechanics), Genetics, Cell Chemistry and Biology, Psychology, General Chemistry, Organic Chemistry (I, II), Writing Theory, Literary Interpretation, Zoroastrianism, Basic Acting, Hip-Hop Dance
 
