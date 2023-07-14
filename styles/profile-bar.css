@@ -1,0 +1,61 @@
+.profile-bar {
+  padding: 5%;
+}
+
+.profile-pic {
+  width: 100%;
+  border-radius: 50px;
+}
+
+.pb,
+.pb-name,
+.pb-pos,
+.pb-uni,
+.pb-email {
+  padding: 1px;
+}
+
+.pb-name {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+.pb-pos,
+.pb-uni,
+.pb-email {
+  font-size: 14px;
+}
+
+.pb-email {
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 3px;
+  margin-bottom: 10px;
+  font-size: 14.5px;
+}
+
+.pb-bottom {
+  display: flex;
+  margin-left :5%;
+}
+
+.space {
+  border: 1px solid black;
+  margin-left: 5px;
+  margin-right: 15px;
+}
+
+.mascot-icon {
+  height: 30px;
+  margin-right: 10px;
+  vertical-align: middle;
+  margin-top: 5px;
+}
+
+.pb-icon {
+  width: 27px;
+  margin-right: 5px;
+  vertical-align: middle;
+  margin-top: 5px;
+}
+

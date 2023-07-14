@@ -1,0 +1,72 @@
+.navbar {
+  background-color: #C5050C;
+  
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 0;
+  margin: 0;
+
+  position: fixed;
+  z-index: 200;
+  width: 100%;
+}
+
+.nav-left,
+.nav-right {
+  color: white;
+}
+
+.nav-left {
+  margin-left: 20px;
+
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.name-button {
+  padding: 10px;
+}
+
+.name-button:hover {
+  cursor: pointer;
+  color: #ebd38c;
+}
+
+.nav-right {
+  margin-right: 10px;
+  display: flex;
+
+  font-size: 20
+}
+
+.nav-button-home,
+.nav-button-research,
+.nav-button-teaching,
+.nav-button-projects {
+  border-radius: 5px;
+  padding: 1px 15px;
+  text-align: center;
+  vertical-align: middle;
+  margin: 0 5px;
+}
+
+.nav-button {
+  color: white;
+}
+
+.nav-button-home:hover,
+.nav-button-research:hover,
+.nav-button-teaching:hover,
+.nav-button-projects:hover {
+  cursor: pointer;
+  color: #ebd38c;
+}
+
+.nav-button-research {
+  color: #cfae4c;
+}
+

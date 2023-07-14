@@ -1,0 +1,107 @@
+.home-main {
+  padding-left: 3%;
+  padding-right: 3%;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.about-me {
+  padding-top: 5px;
+}
+
+.heading {
+  font-size: 24px;
+  font-weight: 500;
+  padding-bottom: 0;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.research-title {
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  ;
+
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.research-main-odd {
+  padding-left: 3%;
+  padding-right: 3%;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+
+  min-height: 50px;
+}
+
+.research-main-even {
+  padding-left: 3%;
+  padding-right: 3%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  min-height: 50px;
+
+}
+
+.divider {
+  height: 1px; 
+  border-bottom: darkslategray solid 1px; 
+  margin: 0 2%;
+  padding-top: 30px;
+}
+
+p {
+  padding: 5px 5%;
+  font-size: 16px;
+}
+
+.research-image {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.research-info {
+  background-color: white;
+}
+
+.research-text {
+  font-size: 16px;
+  padding: 2%;
+  margin: 0;
+}
+
+.teaching-schools {
+  display: grid;
+  grid-template-columns: 30px 1fr;
+  padding-left: 50px;
+  padding-right: 5%;
+  vertical-align: middle;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.school-name {
+  vertical-align: middle;
+  padding-left: 5px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.teaching-list {
+  margin-top: 0;
+  margin-left: 63px;
+  margin-bottom: 10px;
+  list-style-type: square;
+}
+
+p {
+  padding: 5px 5%;
+  font-size: 16px;
+}

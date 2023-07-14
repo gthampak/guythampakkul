@@ -1,0 +1,32 @@
+.research-main-odd {
+  padding-left: 3%;
+  padding-right: 3%;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+
+  height: 200px;
+}
+
+.research-main-even {
+  padding-top: 30px;
+  padding-left: 3%;
+  padding-right: 3%;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+
+  height: 200px;
+}
+
+p {
+  padding: 5px 5%;
+  font-size: 16px;
+}
+
+.research-image {
+  background-color: lightblue;
+}
+
+.research-info {
+  background-color: lightsalmon;
+  padding-top: 5px;
+}
